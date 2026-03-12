@@ -7,17 +7,17 @@
 
 ### Protocol Structure
 
-- [ ] **STRUC-01**: Each protocol includes diagnostic/inclusion criteria defining exactly which patients qualify
-- [ ] **STRUC-02**: Each protocol includes contraindications, precautions, and red flags with stopping rules
-- [ ] **STRUC-03**: Each protocol uses flexible clinical phase structure (2-4 phases) with function-based entry/exit criteria
-- [ ] **STRUC-04**: Interventions classified by: Therapeutic Modality, Manual Therapy, Kinesiotherapy
+- [x] **STRUC-01**: Each protocol includes diagnostic/inclusion criteria defining exactly which patients qualify — DONE 01-02 (P-01 Section 1, 2026-03-12)
+- [x] **STRUC-02**: Each protocol includes contraindications, precautions, and red flags with stopping rules — DONE 01-02 (P-01 Sections 8-9, 2026-03-12)
+- [x] **STRUC-03**: Each protocol uses flexible clinical phase structure (2-4 phases) with function-based entry/exit criteria — DONE 01-02 (P-01 Sections 4-7, 2026-03-12)
+- [x] **STRUC-04**: Interventions classified by: Therapeutic Modality, Manual Therapy, Kinesiotherapy — DONE 01-02 (P-01 Sections 5.4, 6.4, 7.4, 2026-03-12)
 - [x] **STRUC-05**: Shared Foundation Layer document created before any individual protocol (universal battery, progression principle, evidence grading standard, cross-reference index skeleton) — DONE 01-01 (2026-03-12)
 
 ### Assessment & Measurement
 
 - [x] **ASMNT-01**: Universal baseline battery (TUG, SPPB, Manual Dynamometry) with age-stratified normative values and MCIDs in every protocol — DONE 01-01 (2026-03-12)
-- [ ] **ASMNT-02**: Primary outcome indicators per phase with re-evaluation schedule
-- [ ] **ASMNT-03**: Functional benchmark targets at phase transitions (objective, tool-anchored advancement criteria)
+- [x] **ASMNT-02**: Primary outcome indicators per phase with re-evaluation schedule — DONE 01-02 (P-01 Section 12, 2026-03-12)
+- [x] **ASMNT-03**: Functional benchmark targets at phase transitions (objective, tool-anchored advancement criteria) — DONE 01-02 (P-01 Sections 5.3, 6.3, 7.3, 2026-03-12)
 - [x] **ASMNT-04**: All outcome tools cited in Brazilian Portuguese validated versions (SPPB-BR, WOMAC-BR, MoCA-BR, etc.) — DONE 01-01 (2026-03-12)
 
 ### Dosage & Progression
@@ -25,7 +25,7 @@
 - [x] **DOSE-01**: Two-column dosage format for all exercises: recommended value + acceptable clinical range — DONE 01-01 (2026-03-12)
 - [x] **DOSE-02**: "Start low, go slow, but reach the goal" principle embedded across all parameter and progression content — DONE 01-01 (2026-03-12)
 - [x] **DOSE-03**: Frailty-stratified dosage tables (Robust / Pre-frail / Frail) in every protocol — DONE 01-01 (2026-03-12)
-- [ ] **DOSE-04**: Objective progression criteria (within-phase and phase-advancement), never time-based alone
+- [x] **DOSE-04**: Objective progression criteria (within-phase and phase-advancement), never time-based alone — DONE 01-02 (P-01 Sections 5.3, 6.3, 7.3, 2026-03-12)
 
 ### Evidence & Safety
 
@@ -39,14 +39,14 @@
 
 ### Output
 
-- [ ] **OUT-01**: Final protocols written in Brazilian Portuguese
-- [ ] **OUT-02**: One structured markdown document per comorbidity (20 total)
-- [ ] **OUT-03**: Protocols follow TIDieR/CERT reporting standards
+- [x] **OUT-01**: Final protocols written in Brazilian Portuguese — DONE 01-02 (P-01 entirely in BP, 2026-03-12)
+- [x] **OUT-02**: One structured markdown document per comorbidity (20 total) — P-01 DONE 01-02; 1/20 complete (2026-03-12)
+- [x] **OUT-03**: Protocols follow TIDieR/CERT reporting standards — DONE 01-02 (P-01 TIDieR/CERT compliant, 2026-03-12)
 - [x] **OUT-04**: Cross-reference index mapping protocol interactions and comorbidity flags — DONE 01-01 (skeleton; to be filled progressively)
 
 ### Protocols (sequential, dependency-ordered)
 
-- [ ] **PROT-01**: P-01 Osteoartrite / Artrose (joelho, quadril, coluna, mãos) — template protocol
+- [x] **PROT-01**: P-01 Osteoartrite / Artrose (joelho, quadril, coluna, mãos) — template protocol — DONE 01-02 (2026-03-12, commits 6bc6ddd, 79fa068)
 - [ ] **PROT-02**: P-08 Sarcopenia / Fraqueza Generalizada — cross-protocol resistance dosing modifier
 - [ ] **PROT-03**: P-04 Osteoporose — cross-protocol bone-loading constraint
 - [ ] **PROT-04**: P-07 Quedas e Síndrome Pós-Queda — balance hierarchy + session fall risk protocol
@@ -97,19 +97,19 @@
 
 | Requirement | Phase | Phase Name | Status |
 |-------------|-------|------------|--------|
-| STRUC-01 | Phase 1 | Fundação e Template | Pending |
-| STRUC-02 | Phase 1 | Fundação e Template | Pending |
-| STRUC-03 | Phase 1 | Fundação e Template | Pending |
-| STRUC-04 | Phase 1 | Fundação e Template | Pending |
+| STRUC-01 | Phase 1 | Fundação e Template | Done — 01-02 |
+| STRUC-02 | Phase 1 | Fundação e Template | Done — 01-02 |
+| STRUC-03 | Phase 1 | Fundação e Template | Done — 01-02 |
+| STRUC-04 | Phase 1 | Fundação e Template | Done — 01-02 |
 | STRUC-05 | Phase 1 | Fundação e Template | Done — 01-01 |
 | ASMNT-01 | Phase 1 | Fundação e Template | Done — 01-01 |
-| ASMNT-02 | Phase 1 | Fundação e Template | Pending (01-02) |
-| ASMNT-03 | Phase 1 | Fundação e Template | Pending (01-02) |
+| ASMNT-02 | Phase 1 | Fundação e Template | Done — 01-02 |
+| ASMNT-03 | Phase 1 | Fundação e Template | Done — 01-02 |
 | ASMNT-04 | Phase 1 | Fundação e Template | Done — 01-01 |
 | DOSE-01 | Phase 1 | Fundação e Template | Done — 01-01 |
 | DOSE-02 | Phase 1 | Fundação e Template | Done — 01-01 |
 | DOSE-03 | Phase 1 | Fundação e Template | Done — 01-01 |
-| DOSE-04 | Phase 1 | Fundação e Template | Pending (01-02) |
+| DOSE-04 | Phase 1 | Fundação e Template | Done — 01-02 |
 | EVID-01 | Phase 1 | Fundação e Template | Done — 01-01 |
 | EVID-02 | Phase 1 | Fundação e Template | Done — 01-01 |
 | EVID-03 | Phase 1 | Fundação e Template | Done — 01-01 |
@@ -117,11 +117,11 @@
 | SAFE-02 | Phase 1 | Fundação e Template | Done — 01-01 |
 | SAFE-03 | Phase 1 | Fundação e Template | Done — 01-01 |
 | SAFE-04 | Phase 1 | Fundação e Template | Done — 01-01 |
-| OUT-01 | Phase 1 | Fundação e Template | Pending (01-02) |
-| OUT-02 | Phase 1 | Fundação e Template | Pending (01-02) |
-| OUT-03 | Phase 1 | Fundação e Template | Pending (01-02) |
-| OUT-04 | Phase 1 | Fundação e Template | Done — 01-01 (skeleton) |
-| PROT-01 | Phase 1 | Fundação e Template | Pending |
+| OUT-01 | Phase 1 | Fundação e Template | Done — 01-02 |
+| OUT-02 | Phase 1 | Fundação e Template | Done — 01-02 (1/20 protocols) |
+| OUT-03 | Phase 1 | Fundação e Template | Done — 01-02 |
+| OUT-04 | Phase 1 | Fundação e Template | Done — 01-01 (skeleton); 01-02 (P-01 row) |
+| PROT-01 | Phase 1 | Fundação e Template | Done — 01-02 |
 | PROT-02 | Phase 2 | Modificadores Transversais | Pending |
 | PROT-03 | Phase 2 | Modificadores Transversais | Pending |
 | PROT-04 | Phase 3 | Infraestrutura de Segurança de Quedas | Pending |

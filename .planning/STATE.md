@@ -10,28 +10,28 @@ See: .planning/PROJECT.md (updated 2026-03-12)
 ## Current Position
 
 Phase: 1 of 8 (Fundação e Template)
-Plan: 1 of 2 in current phase
-Status: In progress
-Last activity: 2026-03-12 — Plan 01-01 completed: SHARED-FOUNDATION.md created (all 8 sections)
+Plan: 2 of 2 in current phase (PHASE COMPLETE)
+Status: Phase 1 complete — ready for Phase 2
+Last activity: 2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)
 
-Progress: [█░░░░░░░░░] 6%
+Progress: [██░░░░░░░░] 12%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 1
-- Average duration: ~4 min
-- Total execution time: 0.07 hours
+- Total plans completed: 2
+- Average duration: ~5.5 min
+- Total execution time: 0.18 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| Phase 1 — Fundação e Template | 1/2 | ~4 min | ~4 min |
+| Phase 1 — Fundação e Template | 2/2 (COMPLETE) | ~11 min | ~5.5 min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (4 min)
-- Trend: —
+- Last 5 plans: 01-01 (4 min), 01-02 (7 min)
+- Trend: Phase 1 complete
 
 *Updated after each plan completion*
 
@@ -51,6 +51,11 @@ Recent decisions affecting current work:
 - [01-01]: WOMAC-BR — Oliveira et al. 2022 (PMC9673866) as primary peer-reviewed validation; Fernandes 2003 as translation source only
 - [01-01]: OARSI 2024 Year in Review is supplementary context only — OARSI 2019 remains current guideline
 - [01-01]: EWGSOP2 (2018) cutoffs used pending EWGSOP3 — flagged in SHARED-FOUNDATION.md for update verification
+- [01-02]: Aquatic exercise positioned as first-line option equivalent to land-based exercise per OARSI 2019 — not a secondary alternative
+- [01-02]: OA of spine (coluna) redirected to P-09 — P-01 covers peripheral OA (knee, hip, hands) as primary condition
+- [01-02]: Opioids added as 7th drug class in polypharmacy table — tramadol/codeína frequent in geriatric OA with direct exercise implications
+- [01-02]: Section 15 (8 clinical validity questions) established as replicable template for all 19 subsequent protocols
+- [01-02]: Crioterapia classified as Nivel C (CEBM 4-5) — honest evidence annotation for common practice without high-quality systematic review
 
 ### Pending Todos
 
@@ -58,14 +63,14 @@ None yet.
 
 ### Blockers/Concerns
 
-- [Research flags — ACTIVE]: OARSI 2024 update publication status must be verified before completing P-01 (Phase 1) — documented in SHARED-FOUNDATION.md; using OARSI 2019 as current guideline
 - [Research flags — ACTIVE]: EWGSOP3 status must be confirmed before completing P-08 (Phase 2) — documented in SHARED-FOUNDATION.md; using EWGSOP2 2018
-- [Research flags — RESOLVED]: Brazilian Portuguese validation citations for SPPB-BR, WOMAC-BR, MoCA-BR, ODI-BR — all 4 confirmed with peer-reviewed citations in SHARED-FOUNDATION.md Section 6
-- [Research flags — ACTIVE]: AGS Beers Criteria 2023 — confirm 2026 status before any polypharmacy section — documented in SHARED-FOUNDATION.md
+- [Research flags — RESOLVED]: OARSI 2024 — confirmed as supplementary context only; OARSI 2019 used as current guideline in P-01
+- [Research flags — RESOLVED]: Brazilian Portuguese validation citations for SPPB-BR, WOMAC-BR, MoCA-BR, ODI-BR — all 4 confirmed with peer-reviewed citations
+- [Research flags — ACTIVE]: AGS Beers Criteria 2023 — confirm 2026 status before any polypharmacy section — documented in SHARED-FOUNDATION.md and P-01 Section 10
 - [Research flags — ACTIVE]: ATS/ERS 2023 Pulmonary Rehabilitation Statement final status needed for Phase 6
 
 ## Session Continuity
 
 Last session: 2026-03-12
-Stopped at: Completed 01-01-PLAN.md — SHARED-FOUNDATION.md created with all 8 sections; ready for 01-02-PLAN.md (P-01 Osteoartrite)
+Stopped at: Completed 01-02-PLAN.md — P-01-OSTEOARTRITE.md created (15 sections, template protocol); Phase 1 complete; ready for Phase 2
 Resume file: None

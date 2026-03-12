@@ -12,7 +12,7 @@ Twenty evidence-based geriatric rehabilitation protocols, delivered sequentially
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Fundação e Template** - Shared Foundation Layer + P-01 Osteoartrite (template protocol establishing all standards)
+- [x] **Phase 1: Fundação e Template** - Shared Foundation Layer + P-01 Osteoartrite (template protocol establishing all standards) — COMPLETED 2026-03-12
 - [ ] **Phase 2: Modificadores Transversais** - P-08 Sarcopenia e P-04 Osteoporose (cross-protocol dosage and bone-loading modifiers)
 - [ ] **Phase 3: Infraestrutura de Segurança de Quedas** - P-07 Quedas e Síndrome Pós-Queda (balance hierarchy and session-level fall risk protocol)
 - [ ] **Phase 4: Musculoesquelético Alta Dependência** - P-05 Fratura de Fêmur, P-10 ATJ, P-11 ATQ (post-op and fracture protocols)
@@ -37,7 +37,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 Plans:
 - [x] 01-01: Shared Foundation Layer — universal battery, progression principle, evidence grading standard, cross-reference index skeleton, Brazilian PT tool validation citations — COMPLETED 2026-03-12 (commit 0add8ff)
-- [ ] 01-02: P-01 Osteoartrite — complete protocol research (English) and document authorship (Brazilian Portuguese) following TIDieR/CERT with all structural, assessment, dosage, evidence, and safety requirements
+- [x] 01-02: P-01 Osteoartrite — complete protocol research (English) and document authorship (Brazilian Portuguese) following TIDieR/CERT with all structural, assessment, dosage, evidence, and safety requirements — COMPLETED 2026-03-12 (commits 6bc6ddd, 79fa068)
 
 ### Phase 2: Modificadores Transversais
 **Goal**: P-08 Sarcopenia and P-04 Osteoporose exist as complete reference protocols, providing the resistance dosing modifier table and bone-loading constraint set that all later protocols cross-reference rather than independently derive.
