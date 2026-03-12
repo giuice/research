@@ -552,7 +552,7 @@ Todo paciente idoso deve ter avaliação cardiovascular documentada antes de ini
 
 | Protocolo | Condição | Interações Conhecidas | Modificadores Compartilhados | Precauções Específicas |
 |-----------|----------|----------------------|------------------------------|------------------------|
-| **P-01** | Osteoartrite / Artrose | — a preencher após P-01 | — | — |
+| **P-01** | Osteoartrite / Artrose | P-04 (Osteoporose), P-07 (Quedas), P-08 (Sarcopenia), P-10 (ATJ), P-11 (ATQ), P-20 (Gonalgia/Coxalgia) | Fragilidade, corticosteroides, AINEs, anticoagulantes | ICC/DPOC: iniciar na faixa Frágil; Corticosteroides crônicos: consultar P-04 antes de exercício de impacto; Sarcopenia confirmada: ajustar dosagem conforme P-08 |
 | **P-02** | Lombalgia Crônica e Estenose de Canal | — | — | — |
 | **P-03** | AVC/AVE (fase crônica) | — | — | — |
 | **P-04** | Osteoporose | — | — | — |
