@@ -33,7 +33,7 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. The two-column dosage format (recommended value + acceptable clinical range) with frailty-stratified tables (Robust / Pre-frail / Frail) is operational and verified in P-01
   4. All outcome tools cited in their Brazilian Portuguese validated versions (SPPB-BR, WOMAC-BR, MoCA-BR, ODI-BR) with validation citations confirmed
   5. P-01 can be handed to a clinician who then knows exactly which patients qualify, what to prescribe, how to progress them, and when to escalate — without needing any other document
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
 - [ ] 01-01: Shared Foundation Layer — universal battery, progression principle, evidence grading standard, cross-reference index skeleton, Brazilian PT tool validation citations
