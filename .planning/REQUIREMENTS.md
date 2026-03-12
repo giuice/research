@@ -11,38 +11,38 @@
 - [ ] **STRUC-02**: Each protocol includes contraindications, precautions, and red flags with stopping rules
 - [ ] **STRUC-03**: Each protocol uses flexible clinical phase structure (2-4 phases) with function-based entry/exit criteria
 - [ ] **STRUC-04**: Interventions classified by: Therapeutic Modality, Manual Therapy, Kinesiotherapy
-- [ ] **STRUC-05**: Shared Foundation Layer document created before any individual protocol (universal battery, progression principle, evidence grading standard, cross-reference index skeleton)
+- [x] **STRUC-05**: Shared Foundation Layer document created before any individual protocol (universal battery, progression principle, evidence grading standard, cross-reference index skeleton) — DONE 01-01 (2026-03-12)
 
 ### Assessment & Measurement
 
-- [ ] **ASMNT-01**: Universal baseline battery (TUG, SPPB, Manual Dynamometry) with age-stratified normative values and MCIDs in every protocol
+- [x] **ASMNT-01**: Universal baseline battery (TUG, SPPB, Manual Dynamometry) with age-stratified normative values and MCIDs in every protocol — DONE 01-01 (2026-03-12)
 - [ ] **ASMNT-02**: Primary outcome indicators per phase with re-evaluation schedule
 - [ ] **ASMNT-03**: Functional benchmark targets at phase transitions (objective, tool-anchored advancement criteria)
-- [ ] **ASMNT-04**: All outcome tools cited in Brazilian Portuguese validated versions (SPPB-BR, WOMAC-BR, MoCA-BR, etc.)
+- [x] **ASMNT-04**: All outcome tools cited in Brazilian Portuguese validated versions (SPPB-BR, WOMAC-BR, MoCA-BR, etc.) — DONE 01-01 (2026-03-12)
 
 ### Dosage & Progression
 
-- [ ] **DOSE-01**: Two-column dosage format for all exercises: recommended value + acceptable clinical range
-- [ ] **DOSE-02**: "Start low, go slow, but reach the goal" principle embedded across all parameter and progression content
-- [ ] **DOSE-03**: Frailty-stratified dosage tables (Robust / Pre-frail / Frail) in every protocol
+- [x] **DOSE-01**: Two-column dosage format for all exercises: recommended value + acceptable clinical range — DONE 01-01 (2026-03-12)
+- [x] **DOSE-02**: "Start low, go slow, but reach the goal" principle embedded across all parameter and progression content — DONE 01-01 (2026-03-12)
+- [x] **DOSE-03**: Frailty-stratified dosage tables (Robust / Pre-frail / Frail) in every protocol — DONE 01-01 (2026-03-12)
 - [ ] **DOSE-04**: Objective progression criteria (within-phase and phase-advancement), never time-based alone
 
 ### Evidence & Safety
 
-- [ ] **EVID-01**: Evidence level classification per intervention (Oxford CEBM Level A/B/C with primary citation)
-- [ ] **EVID-02**: Guideline alignment declaration (IASP, AGS, WHO, and condition-specific body) in every protocol
-- [ ] **EVID-03**: Research conducted in English from PubMed + Cochrane + PEDro triad
-- [ ] **SAFE-01**: Pain monitoring with NRS thresholds per phase (IASP-aligned)
-- [ ] **SAFE-02**: Structured red flag table with escalation pathways per protocol
-- [ ] **SAFE-03**: Polypharmacy interaction section per protocol (most common drug classes + exercise implications)
-- [ ] **SAFE-04**: Cardiorespiratory precautions section in every protocol regardless of primary diagnosis
+- [x] **EVID-01**: Evidence level classification per intervention (Oxford CEBM Level A/B/C with primary citation) — DONE 01-01 (2026-03-12)
+- [x] **EVID-02**: Guideline alignment declaration (IASP, AGS, WHO, and condition-specific body) in every protocol — DONE 01-01 (2026-03-12)
+- [x] **EVID-03**: Research conducted in English from PubMed + Cochrane + PEDro triad — DONE 01-01 (2026-03-12)
+- [x] **SAFE-01**: Pain monitoring with NRS thresholds per phase (IASP-aligned) — DONE 01-01 (2026-03-12)
+- [x] **SAFE-02**: Structured red flag table with escalation pathways per protocol — DONE 01-01 (2026-03-12)
+- [x] **SAFE-03**: Polypharmacy interaction section per protocol (most common drug classes + exercise implications) — DONE 01-01 (2026-03-12)
+- [x] **SAFE-04**: Cardiorespiratory precautions section in every protocol regardless of primary diagnosis — DONE 01-01 (2026-03-12)
 
 ### Output
 
 - [ ] **OUT-01**: Final protocols written in Brazilian Portuguese
 - [ ] **OUT-02**: One structured markdown document per comorbidity (20 total)
 - [ ] **OUT-03**: Protocols follow TIDieR/CERT reporting standards
-- [ ] **OUT-04**: Cross-reference index mapping protocol interactions and comorbidity flags
+- [x] **OUT-04**: Cross-reference index mapping protocol interactions and comorbidity flags — DONE 01-01 (skeleton; to be filled progressively)
 
 ### Protocols (sequential, dependency-ordered)
 
@@ -101,26 +101,26 @@
 | STRUC-02 | Phase 1 | Fundação e Template | Pending |
 | STRUC-03 | Phase 1 | Fundação e Template | Pending |
 | STRUC-04 | Phase 1 | Fundação e Template | Pending |
-| STRUC-05 | Phase 1 | Fundação e Template | Pending |
-| ASMNT-01 | Phase 1 | Fundação e Template | Pending |
-| ASMNT-02 | Phase 1 | Fundação e Template | Pending |
-| ASMNT-03 | Phase 1 | Fundação e Template | Pending |
-| ASMNT-04 | Phase 1 | Fundação e Template | Pending |
-| DOSE-01 | Phase 1 | Fundação e Template | Pending |
-| DOSE-02 | Phase 1 | Fundação e Template | Pending |
-| DOSE-03 | Phase 1 | Fundação e Template | Pending |
-| DOSE-04 | Phase 1 | Fundação e Template | Pending |
-| EVID-01 | Phase 1 | Fundação e Template | Pending |
-| EVID-02 | Phase 1 | Fundação e Template | Pending |
-| EVID-03 | Phase 1 | Fundação e Template | Pending |
-| SAFE-01 | Phase 1 | Fundação e Template | Pending |
-| SAFE-02 | Phase 1 | Fundação e Template | Pending |
-| SAFE-03 | Phase 1 | Fundação e Template | Pending |
-| SAFE-04 | Phase 1 | Fundação e Template | Pending |
-| OUT-01 | Phase 1 | Fundação e Template | Pending |
-| OUT-02 | Phase 1 | Fundação e Template | Pending |
-| OUT-03 | Phase 1 | Fundação e Template | Pending |
-| OUT-04 | Phase 1 | Fundação e Template | Pending |
+| STRUC-05 | Phase 1 | Fundação e Template | Done — 01-01 |
+| ASMNT-01 | Phase 1 | Fundação e Template | Done — 01-01 |
+| ASMNT-02 | Phase 1 | Fundação e Template | Pending (01-02) |
+| ASMNT-03 | Phase 1 | Fundação e Template | Pending (01-02) |
+| ASMNT-04 | Phase 1 | Fundação e Template | Done — 01-01 |
+| DOSE-01 | Phase 1 | Fundação e Template | Done — 01-01 |
+| DOSE-02 | Phase 1 | Fundação e Template | Done — 01-01 |
+| DOSE-03 | Phase 1 | Fundação e Template | Done — 01-01 |
+| DOSE-04 | Phase 1 | Fundação e Template | Pending (01-02) |
+| EVID-01 | Phase 1 | Fundação e Template | Done — 01-01 |
+| EVID-02 | Phase 1 | Fundação e Template | Done — 01-01 |
+| EVID-03 | Phase 1 | Fundação e Template | Done — 01-01 |
+| SAFE-01 | Phase 1 | Fundação e Template | Done — 01-01 |
+| SAFE-02 | Phase 1 | Fundação e Template | Done — 01-01 |
+| SAFE-03 | Phase 1 | Fundação e Template | Done — 01-01 |
+| SAFE-04 | Phase 1 | Fundação e Template | Done — 01-01 |
+| OUT-01 | Phase 1 | Fundação e Template | Pending (01-02) |
+| OUT-02 | Phase 1 | Fundação e Template | Pending (01-02) |
+| OUT-03 | Phase 1 | Fundação e Template | Pending (01-02) |
+| OUT-04 | Phase 1 | Fundação e Template | Done — 01-01 (skeleton) |
 | PROT-01 | Phase 1 | Fundação e Template | Pending |
 | PROT-02 | Phase 2 | Modificadores Transversais | Pending |
 | PROT-03 | Phase 2 | Modificadores Transversais | Pending |
@@ -149,4 +149,4 @@
 
 ---
 *Requirements defined: 2026-03-12*
-*Last updated: 2026-03-12 after roadmap creation*
+*Last updated: 2026-03-12 after plan 01-01 completion*

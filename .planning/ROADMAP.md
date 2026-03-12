@@ -36,7 +36,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 2 plans
 
 Plans:
-- [ ] 01-01: Shared Foundation Layer — universal battery, progression principle, evidence grading standard, cross-reference index skeleton, Brazilian PT tool validation citations
+- [x] 01-01: Shared Foundation Layer — universal battery, progression principle, evidence grading standard, cross-reference index skeleton, Brazilian PT tool validation citations — COMPLETED 2026-03-12 (commit 0add8ff)
 - [ ] 01-02: P-01 Osteoartrite — complete protocol research (English) and document authorship (Brazilian Portuguese) following TIDieR/CERT with all structural, assessment, dosage, evidence, and safety requirements
 
 ### Phase 2: Modificadores Transversais
@@ -145,7 +145,7 @@ Phases execute in strict sequential order: 1 → 2 → 3 → 4 → 5 → 6 → 7
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Fundação e Template | 0/2 | Not started | - |
+| 1. Fundação e Template | 1/2 | In progress | 01-01 done 2026-03-12 |
 | 2. Modificadores Transversais | 0/2 | Not started | - |
 | 3. Infraestrutura de Segurança de Quedas | 0/1 | Not started | - |
 | 4. Musculoesquelético Alta Dependência | 0/2 | Not started | - |
