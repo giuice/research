@@ -95,58 +95,58 @@
 
 ## Traceability
 
-| Requirement | Phase | Status |
-|-------------|-------|--------|
-| STRUC-01 | Phase 1 | Pending |
-| STRUC-02 | Phase 1 | Pending |
-| STRUC-03 | Phase 1 | Pending |
-| STRUC-04 | Phase 1 | Pending |
-| STRUC-05 | Phase 1 | Pending |
-| ASMNT-01 | Phase 1 | Pending |
-| ASMNT-02 | Phase 1 | Pending |
-| ASMNT-03 | Phase 1 | Pending |
-| ASMNT-04 | Phase 1 | Pending |
-| DOSE-01 | Phase 1 | Pending |
-| DOSE-02 | Phase 1 | Pending |
-| DOSE-03 | Phase 1 | Pending |
-| DOSE-04 | Phase 1 | Pending |
-| EVID-01 | Phase 1 | Pending |
-| EVID-02 | Phase 1 | Pending |
-| EVID-03 | Phase 1 | Pending |
-| SAFE-01 | Phase 1 | Pending |
-| SAFE-02 | Phase 1 | Pending |
-| SAFE-03 | Phase 1 | Pending |
-| SAFE-04 | Phase 1 | Pending |
-| OUT-01 | Phase 1 | Pending |
-| OUT-02 | Phase 1 | Pending |
-| OUT-03 | Phase 1 | Pending |
-| OUT-04 | Phase 1 | Pending |
-| PROT-01 | Phase 1 | Pending |
-| PROT-02 | Phase 2 | Pending |
-| PROT-03 | Phase 2 | Pending |
-| PROT-04 | Phase 3 | Pending |
-| PROT-05 | Phase 4 | Pending |
-| PROT-06 | Phase 4 | Pending |
-| PROT-07 | Phase 4 | Pending |
-| PROT-08 | Phase 5 | Pending |
-| PROT-09 | Phase 5 | Pending |
-| PROT-10 | Phase 5 | Pending |
-| PROT-11 | Phase 6 | Pending |
-| PROT-12 | Phase 6 | Pending |
-| PROT-13 | Phase 7 | Pending |
-| PROT-14 | Phase 7 | Pending |
-| PROT-15 | Phase 7 | Pending |
-| PROT-16 | Phase 7 | Pending |
-| PROT-17 | Phase 7 | Pending |
-| PROT-18 | Phase 7 | Pending |
-| PROT-19 | Phase 8 | Pending |
-| PROT-20 | Phase 8 | Pending |
+| Requirement | Phase | Phase Name | Status |
+|-------------|-------|------------|--------|
+| STRUC-01 | Phase 1 | Fundação e Template | Pending |
+| STRUC-02 | Phase 1 | Fundação e Template | Pending |
+| STRUC-03 | Phase 1 | Fundação e Template | Pending |
+| STRUC-04 | Phase 1 | Fundação e Template | Pending |
+| STRUC-05 | Phase 1 | Fundação e Template | Pending |
+| ASMNT-01 | Phase 1 | Fundação e Template | Pending |
+| ASMNT-02 | Phase 1 | Fundação e Template | Pending |
+| ASMNT-03 | Phase 1 | Fundação e Template | Pending |
+| ASMNT-04 | Phase 1 | Fundação e Template | Pending |
+| DOSE-01 | Phase 1 | Fundação e Template | Pending |
+| DOSE-02 | Phase 1 | Fundação e Template | Pending |
+| DOSE-03 | Phase 1 | Fundação e Template | Pending |
+| DOSE-04 | Phase 1 | Fundação e Template | Pending |
+| EVID-01 | Phase 1 | Fundação e Template | Pending |
+| EVID-02 | Phase 1 | Fundação e Template | Pending |
+| EVID-03 | Phase 1 | Fundação e Template | Pending |
+| SAFE-01 | Phase 1 | Fundação e Template | Pending |
+| SAFE-02 | Phase 1 | Fundação e Template | Pending |
+| SAFE-03 | Phase 1 | Fundação e Template | Pending |
+| SAFE-04 | Phase 1 | Fundação e Template | Pending |
+| OUT-01 | Phase 1 | Fundação e Template | Pending |
+| OUT-02 | Phase 1 | Fundação e Template | Pending |
+| OUT-03 | Phase 1 | Fundação e Template | Pending |
+| OUT-04 | Phase 1 | Fundação e Template | Pending |
+| PROT-01 | Phase 1 | Fundação e Template | Pending |
+| PROT-02 | Phase 2 | Modificadores Transversais | Pending |
+| PROT-03 | Phase 2 | Modificadores Transversais | Pending |
+| PROT-04 | Phase 3 | Infraestrutura de Segurança de Quedas | Pending |
+| PROT-05 | Phase 4 | Musculoesquelético Alta Dependência | Pending |
+| PROT-06 | Phase 4 | Musculoesquelético Alta Dependência | Pending |
+| PROT-07 | Phase 4 | Musculoesquelético Alta Dependência | Pending |
+| PROT-08 | Phase 5 | Cluster Neuromotor | Pending |
+| PROT-09 | Phase 5 | Cluster Neuromotor | Pending |
+| PROT-10 | Phase 5 | Cluster Neuromotor | Pending |
+| PROT-11 | Phase 6 | Cluster Cardiorrespiratório | Pending |
+| PROT-12 | Phase 6 | Cluster Cardiorrespiratório | Pending |
+| PROT-13 | Phase 7 | Musculoesquelético Secundário e Dor Crônica | Pending |
+| PROT-14 | Phase 7 | Musculoesquelético Secundário e Dor Crônica | Pending |
+| PROT-15 | Phase 7 | Musculoesquelético Secundário e Dor Crônica | Pending |
+| PROT-16 | Phase 7 | Musculoesquelético Secundário e Dor Crônica | Pending |
+| PROT-17 | Phase 7 | Musculoesquelético Secundário e Dor Crônica | Pending |
+| PROT-18 | Phase 7 | Musculoesquelético Secundário e Dor Crônica | Pending |
+| PROT-19 | Phase 8 | Protocolos Especializados | Pending |
+| PROT-20 | Phase 8 | Protocolos Especializados | Pending |
 
 **Coverage:**
 - v1 requirements: 44 total
 - Mapped to phases: 44
-- Unmapped: 0 ✓
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-12*
-*Last updated: 2026-03-12 after initial definition*
+*Last updated: 2026-03-12 after roadmap creation*
