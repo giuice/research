@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 05-02-PLAN.md — P-06-PARKINSON.md (850 linhas, 15 seções) e P-18-DEMENCIA.md (902 linhas, 15 seções) criados; cluster neuromotor completo; SHARED-FOUNDATION P-06 e P-18 rows populados; Phase 5 Plan 2 complete
-last_updated: "2026-03-13T19:57:11.165Z"
+stopped_at: Completed 06-01-PLAN.md — P-15-DPOC.md (813 linhas, 15 seções) e P-16-INSUFICIENCIA-CARDIACA.md (858 linhas, 15 seções) criados; template universal Seção 11 estabelecido; SHARED-FOUNDATION P-15 e P-16 rows populados; Phase 6 Plan 1 complete
+last_updated: "2026-03-13T22:09:18.497Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
   completed_phases: 5
-  total_plans: 9
-  completed_plans: 9
+  total_plans: 11
+  completed_plans: 10
   percent: 12
 ---
 
@@ -56,6 +56,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 04-musculoesqueletico-alta-dependencia P02 | 14 | 2 tasks | 3 files |
 | Phase 05-cluster-neuromotor P01 | 8 | 2 tasks | 2 files |
 | Phase 05-cluster-neuromotor P02 | 15 | 2 tasks | 3 files |
+| Phase 06-cluster-cardiorrespiratorio P01 | 15 | 2 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -97,6 +98,9 @@ Recent decisions affecting current work:
 - [Phase 05-02]: MMSE < 24 é o corte mandatório para HEP pictográfico — abaixo deste ponto HEP textual padrão é contraindicado
 - [Phase 05-02]: Cuidador identificado é CRITÉRIO DE INCLUSÃO em P-18 (não recomendação) — sem cuidador o protocolo não pode ser aplicado com segurança
 - [Phase 05-02]: Abbey Pain Scale citada com BAIXA CONFIANÇA explícita — validação cultural BR não confirmada; PAINAD-BR permanece como instrumento primário
+- [Phase 06-01]: SpO2 90% como limiar de NÃO-INÍCIO e 88% como parada imediata em DPOC — valor conservador para contexto geriátrico
+- [Phase 06-01]: Template universal Seção 11 estabelecido em P-15 com 5 subseções — herdado por P-16 e retroativo para 10 protocolos anteriores em Plano 06-02
+- [Phase 06-01]: RPE Borg 6-20 exclusivo em IC com betabloqueador — FC contraindicada como parâmetro de intensidade (cronotropia negativa); MLHFQ e CAT-BR com nota de cautela de validação cultural
 
 ### Pending Todos
 
@@ -112,6 +116,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-13T19:52:13.564Z
-Stopped at: Completed 05-02-PLAN.md — P-06-PARKINSON.md (850 linhas, 15 seções) e P-18-DEMENCIA.md (902 linhas, 15 seções) criados; cluster neuromotor completo; SHARED-FOUNDATION P-06 e P-18 rows populados; Phase 5 Plan 2 complete
+Last session: 2026-03-13T22:09:18.492Z
+Stopped at: Completed 06-01-PLAN.md — P-15-DPOC.md (813 linhas, 15 seções) e P-16-INSUFICIENCIA-CARDIACA.md (858 linhas, 15 seções) criados; template universal Seção 11 estabelecido; SHARED-FOUNDATION P-15 e P-16 rows populados; Phase 6 Plan 1 complete
 Resume file: None

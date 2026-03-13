@@ -150,6 +150,6 @@ Phases execute in strict sequential order: 1 → 2 → 3 → 4 → 5 → 6 → 7
 | 3. Infraestrutura de Segurança de Quedas | 0/1 | Not started | - |
 | 4. Musculoesquelético Alta Dependência | 2/2 | Complete   | 2026-03-13 |
 | 5. Cluster Neuromotor | 2/2 | Complete   | 2026-03-13 |
-| 6. Cluster Cardiorrespiratório | 0/2 | Not started | - |
+| 6. Cluster Cardiorrespiratório | 1/2 | In Progress|  |
 | 7. Musculoesquelético Secundário e Dor Crônica | 0/3 | Not started | - |
 | 8. Protocolos Especializados | 0/3 | Not started | - |
