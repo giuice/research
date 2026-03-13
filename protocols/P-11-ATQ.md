@@ -769,35 +769,61 @@ Pacientes com ≥ 4 medicamentos psicoativos ou combinação benzodiazepínico +
 
 ## 11. Precauções Cardiorrespiratórias
 
-*(Herdado SHARED-FOUNDATION Seção 7.4 — reproduzido integralmente por autossuficiência do protocolo)*
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-### 11.1 Avaliação Pré-Participação
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
-Verificar e registrar:
-- PA basal (em repouso, sentado, após 5 minutos)
-- FC de repouso
-- História de ICC, DPOC, arritmias, angina, infarto prévio
-- Saturação O₂ basal (se disponível)
-- Medicamentos cardiovasculares em uso (ver Seção 10)
+**Registrar antes de CADA sessão:**
 
-### 11.2 Indicadores de Parada Imediata
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
+
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica, pressão precordial ou irradiação | Qualquer ocorrência |
-| Dispneia súbita e desproporcional ao esforço | Qualquer ocorrência |
-| Palpitações com tontura ou síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço progressivo | > 10 mmHg |
-| Saturação O₂ (se oximetria disponível) | SpO₂ < 90% |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
 
-### 11.3 Adaptações para Pacientes com ICC ou DPOC Conhecida
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
 
-- Iniciar na faixa **Frágil** independentemente do escore de fragilidade
+- Iniciar na faixa **Frágil** independentemente do escore de fragilidade quando ICC ou DPOC coexistente
 - Sessões mais curtas: 15–20 minutos, maior frequência (3–5×/semana se tolerado)
 - RPE ≤ 13 (Borg 6-20) como limite superior
 - Sessões supervisionadas obrigatórias nas primeiras 4 semanas
 - Oximetria de pulso durante exercício se disponível
+- Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores
+
+### 11.4 Especificidades P-11 ATQ
+
+**Vigilância de TEV Pós-ATQ:**
+- ATQ é procedimento de alto risco para TEV — TVP proximal (ilíaca, femoral) com risco maior que em ATJ
+- Mobilização precoce < 24h como profilaxia mecânica de primeira linha
+- Sinais de TVP: edema unilateral crescente, dor inguinal/coxa, sinal de Homans positivo (baixa especificidade mas presente) = SUSPENDER e comunicar equipe
+- Sinais de TEP: dispneia súbita + SpO₂ em queda + dor torácica = SAMU 192
+- Em pacientes com ICC coexistente: edema bilateral pós-ATQ pode mascarar TVP — comparar assimetria bilateral
+
+**Risco Cardiovascular da Cirurgia de Quadril:**
+- ATQ é cirurgia de grande porte com estresse cardiovascular perioperatório significativo
+- Em pacientes com ICC (NYHA I–II) ou coronariopatia: monitoramento cardiovascular intensificado nas primeiras 2 semanas
+- Anemia pós-operatória (Hb < 10 g/dL) é comum após ATQ — pode causar taquicardia de repouso (FC > 100 bpm = sinal de anemia, não de arritmia primária); verificar hemograma antes de suspender sessão por FC elevada
+
+**Hipotensão Ortostática Pós-ATQ:**
+- Anestesia espinal ou geral + perda sanguínea intraoperatória + imobilidade pós-operatória = alto risco de hipotensão ortostática
+- Protocolo de verticalização progressiva obrigatório: verificar PA ao ortostatismo antes de deambulação nas primeiras 72h
+- Em ICC coexistente: hipotensão ortostática pode ocorrer mesmo sem anti-hipertensivos — verificar sempre
 
 ---
 

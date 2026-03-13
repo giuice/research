@@ -740,19 +740,59 @@ Reproduzir tabela completa de SHARED-FOUNDATION Seção 7.3 para este protocolo 
 
 ## 11. Precauções Cardiorrespiratórias
 
-### 11.1 Template Herdado (SHARED-FOUNDATION Seção 7.4)
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-Reproduzir conteúdo completo de SHARED-FOUNDATION Seção 7.4 para este protocolo: avaliação pré-participação, indicadores de parada imediata, adaptações para ICC/DPOC.
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
----
+**Registrar antes de CADA sessão:**
 
-### 11.2 Especificidades Cardiorrespiratórias para Quedas
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
 
-**Hipotensão Ortostática:** Verificar conforme Protocolo de Sessão Elemento 2 (Seção 5.2). Em pacientes com ICC, hipotensão ortostática pode ocorrer mesmo sem anti-hipertensivos — verificar sempre.
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
-**Precauções durante PBT:** Monitorar PA antes e após sessões de perturbação. Perturbações de alta intensidade podem elevar PA transitoriamente — limiar de interrupção: PA sistólica > 180 mmHg durante sessão.
+| Indicador | Limiar |
+|-----------|--------|
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
 
-> **Nota:** Atualização cardiorrespiratória retroativa planejada para Fase 6 (após desenvolvimento de P-15 DPOC e P-16 ICC) — consultar P-15 Seção 5 e P-16 Seção 5 para integração completa quando disponíveis.
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
+
+- Iniciar na faixa **Frágil** independentemente do escore de fragilidade quando ICC ou DPOC coexistente
+- Sessões mais curtas: 15–20 min, com maior frequência (3–4×/semana)
+- RPE ≤ 13 (Borg 6-20) como limite superior
+- Sessões supervisionadas obrigatórias por 4 semanas
+- Oximetria de pulso durante exercício se disponível
+- Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores
+
+### 11.4 Especificidades P-07 Quedas
+
+**Hipotensão Ortostática como Fator de Risco de Queda:**
+- Hipotensão ortostática é fator de risco independente para quedas em idosos — integrada ao Protocolo de Sessão (Seção 5.2, Elemento 2)
+- PA ortostática obrigatória em pré-sessão para todos os pacientes com: anti-hipertensivos em uso, ICC conhecida, DP, Parkinson, uso de nitratos ou diuréticos
+- Queda PA sistólica > 20 mmHg ao ortostatismo = hipotensão ortostática confirmada → não progredir para exercícios em pé sem supervisão próxima; comunicar equipe médica para revisão de medicação
+
+**Precauções durante Treino de Perturbação de Base (PBT):**
+- Sessões de PBT de alta intensidade podem elevar PA transitoriamente — verificar PA antes e após cada bloco
+- Limiar de interrupção específico para PBT: PA sistólica > 180 mmHg durante sessão = pausa + reavaliação
+- Em pacientes com ICC coexistente: limitar PBT a Nível 1 e 2 da hierarquia enquanto aguarda estabilização cardiovascular
+
+**Rastreamento de Medicamentos de Risco para Queda com Impacto Cardiovascular:**
+- Diuréticos (espironolactona, furosemida, hidroclorotiazida): risco de hipotensão ortostática + desequilíbrio eletrolítico
+- Betabloqueadores: cronotropia negativa — FC não reflete intensidade real; usar RPE exclusivamente
+- Combinação betabloqueador + diurético + opioide = risco elevado de hipotensão ortostática durante exercício — verificar STOPPFall (Seção 13)
 
 ---
 

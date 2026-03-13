@@ -712,35 +712,63 @@ Pacientes com ≥ 4 medicamentos psicoativos ou combinação benzodiazepínico +
 
 ## 11. Precauções Cardiorrespiratórias
 
-*(Herdado SHARED-FOUNDATION Seção 7.4 — reproduzido integralmente por autossuficiência do protocolo)*
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-### 11.1 Avaliação Pré-Participação
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
-Todo paciente idoso deve ter avaliação cardiovascular documentada antes de iniciar exercício de intensidade moderada a intensa. Verificar e registrar:
-- PA basal (em repouso, sentado, após 5 minutos)
-- FC de repouso
-- História de ICC, DPOC, arritmias, angina, infarto prévio
-- Saturação O₂ basal (se disponível)
-- Medicamentos cardiovasculares em uso (ver Seção 10)
+**Registrar antes de CADA sessão:**
 
-### 11.2 Indicadores de Parada Imediata
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
+
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica, pressão precordial ou irradiação | Qualquer ocorrência |
-| Dispneia súbita e desproporcional ao esforço | Qualquer ocorrência |
-| Palpitações com tontura ou síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço progressivo | > 10 mmHg |
-| Saturação O₂ (se oximetria disponível) | SpO₂ < 90% |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
 
-### 11.3 Adaptações para Pacientes com ICC ou DPOC Conhecida
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
 
-- Iniciar na faixa **Frágil** independentemente do escore de fragilidade obtido
+- Iniciar na faixa **Frágil** independentemente do escore de fragilidade obtido quando ICC ou DPOC coexistente
 - Sessões mais curtas: 15–20 minutos, com maior frequência semanal (3–5×/semana se tolerado)
 - RPE ≤ 13 (Borg 6-20) como limite superior de esforço
 - Sessões supervisionadas obrigatórias nas primeiras 4 semanas
 - Oximetria de pulso durante exercício se disponível
+- Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores
+
+### 11.4 Especificidades P-10 ATJ
+
+**Vigilância de TEV Pós-ATJ:**
+- Trombose venosa profunda (TVP) é complicação séria pós-ATJ — incidência sem profilaxia: 40–60%
+- Mobilização precoce < 24h é profilaxia mecânica de TEV de primeira linha (recomendação AAOS/NICE)
+- Verificar protocolo anticoagulante em uso; implicações para exercício:
+  - DOACs (apixabana, rivaroxabana): sem restrição de exercício; monitorar sinais de TVP
+  - Varfarina: INR > 3,5 = reduzir intensidade + comunicar médico
+- Sinais de TVP: edema unilateral crescente + dor na panturrilha + calor local = SUSPENDER e comunicar equipe imediatamente
+- Sinais de TEP: dispneia súbita + SpO₂ em queda + dor torácica pleurítica = SAMU 192
+
+**Estresse Cardiovascular por Torniquete Cirúrgico:**
+- Torniquete cirúrgico (até 90 min) pode causar lesão de reperfusão e estresse cardiovascular no período pós-operatório imediato
+- Em pacientes com ICC ou coronariopatia prévia: monitoramento cardiovascular mais frequente na Fase 1 (primeiras 2 semanas)
+- Edema pós-operatório de joelho pode mascarar sinais de edema cardíaco — avaliar edema bilateral vs. unilateral
+
+**Hipotensão Ortostática Pós-ATJ:**
+- Anestesia espinal + opioide pós-operatório + imobilidade aumentam risco de hipotensão ortostática
+- Protocolo de verticalização progressiva nas primeiras 48h obrigatório: deitado → sentado com pernas pendentes → ortostatismo com apoio
+- Verificar PA ao ortostatismo antes de iniciar deambulação pelas primeiras 72h
 
 ---
 

@@ -866,45 +866,53 @@ As bandeiras gerais abaixo são herdadas de SHARED-FOUNDATION Seção 7.2. Repro
 
 ## 11. Precauções Cardiorrespiratórias
 
-### 11.1 Avaliação Pré-Participação (SHARED-FOUNDATION Seção 7.4)
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-Reproduzido e adaptado para P-03:
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
-**Registrar antes do início:**
-- PA basal (repouso sentado, 5 minutos)
-- FC de repouso
-- Saturação O₂ basal (se disponível)
-- História de ICC, DPOC, arritmias, angina, IAM prévio
-- Medicamentos cardiovasculares em uso (ver Seção 10)
+**Registrar antes de CADA sessão:**
 
-**Especificidade pós-AVC:**
-- Disfunção autonômica pós-AVC: PA ortostática obrigatória nas primeiras 4 semanas
-- Fibrilação atrial (FA) é fator de risco para AVC isquêmico e pode estar em tratamento anticoagulante — verificar controle de FC em repouso; FC > 100 bpm em repouso = comunicar cardiologista antes de exercício aeróbico
-- Disfagia pode comprometer hidratação pré-exercício — coordenar com fonoaudiologia
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
 
----
-
-### 11.2 Indicadores de Parada Imediata
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica, pressão precordial ou irradiação | Qualquer ocorrência |
-| Dispneia súbita desproporcional ao esforço | Qualquer ocorrência |
-| Palpitações com tontura ou síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço progressivo | > 10 mmHg |
-| SpO₂ (se disponível) | < 90% |
-| Novo déficit neurológico | Qualquer ocorrência — emergência AVC |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
+| **Novo déficit neurológico focal** | Qualquer ocorrência — emergência AVC — SAMU 192 (protocolo FAST) |
 
----
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
 
-### 11.3 Adaptações para ICC ou DPOC Coexistentes
-
-- Iniciar na faixa **Frágil** independentemente do escore de fragilidade
+- Iniciar na faixa **Frágil** independentemente do escore de fragilidade quando ICC ou DPOC coexistente
 - Sessões mais curtas: 15–20 min, frequência aumentada (3–4×/semana)
 - RPE ≤ 13 (Borg 6-20) como limite superior
 - Sessões supervisionadas obrigatórias por 4 semanas
 - Oximetria de pulso durante exercício se disponível
+- Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores
+
+### 11.4 Especificidades P-03 AVC
+
+**Monitoramento Cardíaco Pós-AVC:**
+
+- **Disfunção autonômica pós-AVC:** PA ortostática obrigatória nas primeiras 4 semanas de reabilitação (medir PA deitado → sentado → em pé, 1 min cada posição); queda > 20 mmHg sistólica = hipotensão ortostática = adaptar exercícios verticalizados
+- **Fibrilação atrial (FA):** FA é fator de risco para AVC isquêmico e frequentemente coexiste — verificar FC de repouso antes de exercício aeróbico; FC > 100 bpm em repouso = comunicar cardiologista antes de iniciar
+- **Anticoagulação:** INR instável com varfarina contraindica início do protocolo; verificar INR < 30 dias; NOACs (apixabana, rivaroxabana) não requerem INR mas verificar adesão
+- **Disfagia:** Pode comprometer hidratação pré-exercício — coordenar com fonoaudiologia; desidratação pré-exercício aumenta risco cardiovascular
+- **Recorrência de AVC:** Novo déficit neurológico focal = SAMU 192 imediatamente (protocolo FAST). Cefaleia súbita intensa = possível hemorragia recorrente — emergência
 
 ---
 

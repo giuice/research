@@ -656,34 +656,62 @@ As bandeiras gerais abaixo são herdadas de SHARED-FOUNDATION Seção 7.2. Repro
 
 ## 11. Precauções Cardiorrespiratórias
 
-### 11.1 Avaliação Pré-Participação
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-**Registrar antes do início:**
-- PA basal (repouso sentado, 5 minutos) — DP tem alta prevalência de disautonomia com hipotensão ortostática
-- FC de repouso
-- Saturação O₂ basal (se disponível)
-- História de ICC, DPOC, arritmias, angina, IAM prévio
-- Medicamentos cardiovasculares (betabloqueadores: usar RPE, não FC)
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
-**Especificidade P-06:**
-- Disautonomia autonômica da DP: variação de PA postural > 20 mmHg sistólica — medir PA em cada sessão Fase 1 e nas reavaliações nas Fases 2–3
-- DP grave (Hoehn e Yahr ≥ 3): função respiratória comprometida (hipomobilidade da caixa torácica por rigidez axial) — incluir exercícios de expansão torácica nas Fases 1–2
-- Disfagia em DP avançada: hidratação pré-exercício pode ser limitada; coordenar com fonoaudiologia
+**Registrar antes de CADA sessão:**
 
----
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
 
-### 11.2 Indicadores de Parada Imediata
+> **Atenção P-06 — DP tem alta prevalência de disautonomia:** Verificar PA ortostática na Fase 1 em cada sessão (medir PA sentado → ortostatismo 1 min). Agonistas dopaminérgicos + disautonomia autonômica amplificam hipotensão ortostática.
+
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica, pressão precordial ou irradiação | Qualquer ocorrência |
-| Dispneia súbita desproporcional ao esforço | Qualquer ocorrência |
-| Palpitações com tontura ou síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço progressivo | > 10 mmHg |
-| SpO₂ (se disponível) | < 90% |
-| Crise acinética | Qualquer ocorrência — emergência |
-| Discinesias graves incapacitando equilíbrio | Suspender componentes em pé |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
+| **Crise acinética** | Qualquer ocorrência — emergência neurológica — SAMU 192 |
+| **Discinesias graves incapacitando equilíbrio** | Suspender componentes em pé |
+
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
+
+- Iniciar na faixa **Frágil** independentemente do escore de fragilidade quando ICC ou DPOC coexistente
+- Sessões mais curtas: 15–20 min, frequência aumentada (3–4×/semana)
+- RPE ≤ 13 (Borg 6-20) como limite superior
+- Sessões supervisionadas obrigatórias por 4 semanas
+- Oximetria de pulso durante exercício se disponível
+- Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores
+
+### 11.4 Especificidades P-06 Parkinson
+
+**Disfunção Autonômica Intrínseca da DP:**
+- Disautonomia autonômica da DP: variação de PA postural > 20 mmHg sistólica é comum — medir PA ortostática em CADA sessão da Fase 1; nas reavaliações das Fases 2–3
+- Agonistas dopaminérgicos (pramipexol, ropinirol) potencializam hipotensão ortostática — máxima atenção nas primeiras 2h após a dose
+- Levodopa-carbidopa: flutuações de PA seguem ciclo ON/OFF — risco cardiovascular aumentado no estado OFF
+
+**Comprometimento Respiratório em DP Grave:**
+- DP grave (Hoehn e Yahr ≥ 3): hipomobilidade da caixa torácica por rigidez axial compromete expansão pulmonar
+- Incluir exercícios de expansão torácica como componente obrigatório nas Fases 1–2
+- SpO₂ pode ser menor que o esperado durante exercícios de tronco — monitorar continuamente
+
+**Disfagia e Hidratação:**
+- Disfagia em DP avançada: hidratação pré-exercício pode ser limitada — coordenar com fonoaudiologia
+- Desidratação piora hipotensão ortostática e tolerância cardiorrespiratória ao exercício
 
 ---
 

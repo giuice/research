@@ -649,34 +649,70 @@ As bandeiras gerais abaixo são herdadas de SHARED-FOUNDATION Seção 7.2. Repro
 
 ## 11. Precauções Cardiorrespiratórias
 
-### 11.1 Avaliação Pré-Participação
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-**Registrar antes do início:**
-- PA basal (repouso sentado, 5 minutos)
-- FC de repouso
-- Saturação O₂ basal (se disponível)
-- História de ICC, DPOC, arritmias, angina, IAM prévio
-- Medicamentos cardiovasculares em uso (betabloqueadores: usar RPE)
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
-**Especificidade P-18:**
-- Pacientes com demência frequentemente NÃO comunicam sintomas cardiorrespiratórios proativamente — observar sinais comportamentais: pausa durante exercício, mudança de expressão facial, mão no peito, retardo súbito de marcha
-- Disfagia em demência moderada a avançada: hidratação pré-exercício pode ser limitada — coordenar com fonoaudiologia
-- Para MMSE < 18: pedir ao cuidador para reportar qualquer queixa de falta de ar, tontura, ou desconforto torácico em qualquer período do dia
+**Registrar antes de CADA sessão:**
 
----
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
 
-### 11.2 Indicadores de Parada Imediata
+> **Atenção P-18 — Demência:** Verificação pré-sessão deve ser realizada pelo terapeuta observando sinais comportamentais além dos parâmetros objetivos. Pacientes com MMSE < 18 frequentemente não verbalizam sintomas — ver 11.4.
+
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica, pressão precordial ou irradiação | Qualquer ocorrência |
-| Dispneia súbita desproporcional ao esforço | Qualquer ocorrência |
-| Palpitações com tontura ou síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço progressivo | > 10 mmHg |
-| SpO₂ (se disponível) | < 90% |
-| PAINAD-BR ≥ 6 durante exercício | Suspender sessão; avaliar causa |
-| Agitação psicomotora grave durante exercício | Suspender; confortar; avaliar causa orgânica |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** (além da linha de base) | Qualquer ocorrência — avaliar causa orgânica urgente |
+| **PAINAD-BR ≥ 6 durante exercício** | Suspender sessão; avaliar causa |
+| **Agitação psicomotora grave durante exercício** | Suspender; confortar; avaliar causa orgânica |
+
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
+
+- Iniciar na faixa **Frágil** independentemente do escore de fragilidade quando ICC ou DPOC coexistente
+- Sessões mais curtas: 15–20 min, com maior frequência (3–4×/semana)
+- RPE ≤ 13 (Borg 6-20) como limite superior
+- Sessões supervisionadas obrigatórias por 4 semanas
+- Oximetria de pulso durante exercício se disponível
+- Cuidador treinado para observar e reportar sintomas cardiorrespiratórios
+- Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores
+
+### 11.4 Especificidades P-18 Demência
+
+**Capacidade Limitada de Autorrelato de Sintomas Cardiorrespiratórios:**
+
+Pacientes com demência frequentemente NÃO comunicam proativamente sintomas cardiorrespiratórios. O monitoramento objetivo é mandatório:
+
+| Sinal Comportamental Substituto | Interpretação Clínica |
+|--------------------------------|----------------------|
+| Pausa súbita durante exercício + expressão facial de desconforto | Possível angina, dispneia ou tontura — verificar PA + SpO₂ |
+| Mão no peito ou região epigástrica | Possível dor torácica — SAMU 192 se persistente |
+| Retardo súbito de marcha sem causa mecânica | Possível tontura, pré-síncope ou dispneia — verificar FC e PA |
+| Palidez ou diaforese durante exercício | Possível isquemia ou hipoglicemia — parar e avaliar |
+| Recusa inesperada a continuar exercício habitual | Sintoma não verbalizado — verificar todos os parâmetros |
+
+**Instrução ao Cuidador para Monitoramento Extrassessão:**
+- Para MMSE < 18: instruir cuidador formalmente a reportar qualquer queixa de falta de ar, tontura, ou desconforto torácico em qualquer período do dia
+- Incluir na Sessão de Treinamento de Cuidador 1 (Fase 1): reconhecimento de sinais cardiorrespiratórios de emergência
+
+**Disfagia e Hidratação Pré-Exercício:**
+- Disfagia em demência moderada-avançada (estágio CDR ≥ 2) limita hidratação pré-exercício
+- Desidratação leve piora perfusão cerebral e aumenta risco de síncope durante exercício
+- Coordenar com fonoaudiologia para estratégia de hidratação segura; não iniciar exercício se < 150 mL ingeridos nas 2h anteriores
 
 ---
 

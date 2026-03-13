@@ -885,29 +885,37 @@ Qualquer bandeira vermelha identificada deve ser:
 
 ## 11. Precauções Cardiorrespiratórias
 
-### 11.1 Avaliação Pré-Participação
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-Documentar antes de iniciar exercício de intensidade moderada a intensa:
-- PA basal (sentado, após 5 min de repouso)
-- FC de repouso
-- História de: ICC, DPOC, arritmias, angina, infarto prévio, TEP
-- SpO₂ basal (se oximetria disponível)
-- Medicamentos cardiovasculares em uso (ver Seção 10)
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
-### 11.2 Indicadores de Parada Imediata
+**Registrar antes de CADA sessão:**
+
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
+
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica, pressão precordial ou irradiação | Qualquer ocorrência |
-| Dispneia súbita e desproporcional ao esforço | Qualquer ocorrência |
-| Palpitações com tontura ou síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço progressivo | > 10 mmHg |
-| SpO₂ durante exercício (se oximetria disponível) | < 90% |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
 
-### 11.3 Adaptações para Pacientes com ICC ou DPOC Conhecida
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
 
-> **Regra absoluta:** Pacientes com ICC ou DPOC conhecida iniciam na faixa **Frágil** independentemente do escore de fragilidade obtido no Fenótipo de Fried.
+> **Regra absoluta:** Pacientes com ICC ou DPOC conhecida iniciam na faixa **Frágil** independentemente do escore de fragilidade obtido no Fenótipo de Fried. Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores.
 
 | Parâmetro | Adaptação |
 |-----------|-----------|
@@ -917,6 +925,20 @@ Documentar antes de iniciar exercício de intensidade moderada a intensa:
 | Supervisão | Obrigatória nas primeiras 4 semanas |
 | Oximetria | Durante exercício se disponível |
 | Progressão | Apenas após aprovação cardiológica e após 4 semanas de tolerância estável |
+
+### 11.4 Especificidades P-01 Osteoartrite
+
+**Risco Cardiovascular em Sedentário Iniciando Programa:**
+
+Pacientes idosos com OA frequentemente apresentam alto nível de sedentarismo antes do início do protocolo. O descondicionamento cardiovascular aumenta o risco nas primeiras semanas. Medidas preventivas:
+- Início obrigatório na intensidade mínima da faixa de fragilidade correspondente (RPE 10–11)
+- Progressão de carga apenas após 2 semanas de tolerância estável
+- Atentar para sintomas de isquemia silenciosa: fadiga desproporcional, palidez, sudorese fria sem dispneia — em idosos, pode ser a única manifestação de evento coronariano
+
+**AINEs e Risco Cardiovascular:**
+- AINEs (ibuprofeno, diclofenaco, naproxeno) aumentam risco cardiovascular com uso crônico — verificar prescrição em Seção 10
+- Pacientes com OA frequentemente utilizam AINEs crônicos: monitorar PA antes de cada sessão
+- Em pacientes com ICC conhecida: AINEs CONTRAINDICADOS (precipitam retenção hídrica)
 
 ---
 

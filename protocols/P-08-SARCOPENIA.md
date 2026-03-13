@@ -666,43 +666,64 @@ Referência primária: PMC12602684 — manutenção após 12 semanas de RT; PMC1
 
 ## 11. Precauções Cardiorrespiratórias
 
-### 11.1 Avaliação Pré-Participação
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-Todo paciente idoso deve ter avaliação cardiovascular documentada antes de iniciar exercício de intensidade moderada a intensa. Verificar e registrar:
-- PA basal (repouso sentado, após 5 minutos)
-- FC de repouso
-- História de ICC, DPOC, arritmias, angina, infarto prévio
-- Saturação O₂ basal (se disponível — especialmente em suspeita de DPOC)
-- Medicamentos cardiovasculares em uso (ver Seção 10.1)
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
+
+**Registrar antes de CADA sessão:**
+
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
 
 > **Atenção Especial em Sarcopenia:** O monitoramento de RPE é particularmente importante em pacientes com sarcopenia em uso de betabloqueadores. A FC não reflete adequadamente a intensidade do esforço — usar Borg 6-20 exclusivamente.
 
-### 11.2 Indicadores de Parada Imediata
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica, pressão precordial ou irradiação | Qualquer ocorrência |
-| Dispneia súbita e desproporcional ao esforço | Qualquer ocorrência |
-| Palpitações com tontura ou síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço progressivo | > 10 mmHg |
-| Saturação O₂ (se oximetria disponível) | SpO₂ < 90% |
-| Fadiga muscular extrema súbita (suspeita de rabdomiólise) | Qualquer ocorrência + dor muscular NRS ≥ 7 |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
+| **Fadiga muscular extrema súbita (suspeita de rabdomiólise)** | Qualquer ocorrência + dor muscular NRS ≥ 7 |
 
-### 11.3 Adaptações para Pacientes com ICC ou DPOC Conhecida
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
 
-- Iniciar na faixa **Frágil** independentemente do escore de fragilidade obtido
+- Iniciar na faixa **Frágil** independentemente do escore de fragilidade obtido quando ICC ou DPOC coexistente
 - Sessões mais curtas: 15–20 minutos, com maior frequência semanal (3–5×/semana se tolerado)
 - RPE ≤ 13 (Borg 6-20) como limite superior de esforço
 - Sessões supervisionadas obrigatórias nas primeiras 4 semanas
 - Oximetria de pulso durante exercício se disponível
+- Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores
 
-### 11.4 Considerações Específicas: Sarcopenia + Comorbidades Cardiorrespiratórias
+### 11.4 Especificidades P-08 Sarcopenia
 
-A sarcopenia coexiste frequentemente com ICC e DPOC (síndrome do déficit muscular global). O protocolo deve ser interpretado à luz de P-15 (DPOC) e P-16 (IC) quando essas comorbidades estiverem presentes:
+**Sarcopenia + Comorbidades Cardiorrespiratórias (Síndrome do Déficit Muscular Global):**
 
-- **Sarcopenia + DPOC:** Exercício resistido é fortemente indicado (maior nível de evidência que em DPOC isolada). RPE ≤ 13 como teto. Broncodilatador de ação curta disponível na sessão.
-- **Sarcopenia + ICC:** Exercício resistido de moderada intensidade é seguro e indicado. Monitorar PA e FC (mesmo com betabloqueador). Sessões mais curtas com períodos de repouso intercalados.
+A sarcopenia coexiste frequentemente com ICC e DPOC. O exercício resistido é benéfico em ambas as combinações:
+
+- **Sarcopenia + DPOC:** Exercício resistido é fortemente indicado — evidência maior que em DPOC isolada. RPE ≤ 13 como teto. Broncodilatador de ação curta disponível na sessão. Consultar P-15 como comodificador.
+- **Sarcopenia + ICC:** Exercício resistido de moderada intensidade é seguro e indicado. Monitorar PA e FC (mesmo com betabloqueador). Sessões mais curtas com períodos de repouso intercalados. Consultar P-16 como comodificador.
+
+**Rastreamento Cardiovascular Antes de HIRT (High-Intensity Resistance Training):**
+- HIRT (Fase 3, 70–80% 1RM) exige rastreamento cardiovascular completo antes do início
+- Contraindições absolutas ao HIRT: NYHA III–IV, angina instável, IAM < 3 meses, arritmia não controlada, PA > 180/110 em repouso persistente
+- Em pacientes > 75 anos sedentários antes do protocolo: considerar teste de esforço submáximo (step test ou TC6M) antes de progredir para HIRT
+
+**Valsalva em Exercício Resistido de Alta Carga:**
+- Manobra de Valsalva é especialmente perigosa em sarcopenia com osteoporose coexistente (osteosarcopenia)
+- Instrução verbal obrigatória antes de cada série de HIRT: "Expire continuamente durante o esforço"
+- Em osteosarcopenia: HIRT limitado a 60–65% 1RM mesmo no perfil Robusto — o teto de carga óssea (P-04 Seção 5.2) governa sobre o parâmetro de sarcopenia
 
 ---
 

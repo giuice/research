@@ -814,39 +814,57 @@ Dor pós-exercício que excede a dor pré-exercício em mais de 2 pontos na NRS 
 
 ## 11. Precauções Cardiorrespiratórias
 
-### 11.1 Avaliação Pré-Participação
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-Todo paciente idoso deve ter avaliação cardiovascular documentada antes de iniciar exercício de intensidade moderada a intensa. Verificar e registrar:
-- PA basal (em repouso, sentado, após 5 minutos)
-- FC de repouso
-- História de ICC, DPOC, arritmias, angina, infarto prévio
-- Saturação O₂ basal (se disponível)
-- Medicamentos cardiovasculares em uso
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
+
+**Registrar antes de CADA sessão:**
+
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
 
 > **Nota Específica para Osteoporose — Betabloqueadores:** Muitos pacientes com osteoporose têm comorbidades cardiovasculares tratadas com betabloqueadores (propranolol, atenolol, metoprolol). Em todos esses pacientes, a FC não é indicador confiável de intensidade do exercício. Usar **exclusivamente RPE (Borg 6-20)** como parâmetro de intensidade.
 
----
-
-### 11.2 Indicadores de Parada Imediata
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica, pressão precordial ou irradiação | Qualquer ocorrência |
-| Dispneia súbita e desproporcional ao esforço | Qualquer ocorrência |
-| Palpitações com tontura ou síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço progressivo | > 10 mmHg |
-| Saturação O₂ (se oximetria disponível) | SpO₂ < 90% |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
 
----
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
 
-### 11.3 Adaptações para Pacientes com ICC ou DPOC Coexistente
-
-- Iniciar na faixa **Frágil** independentemente do escore de fragilidade obtido
+- Iniciar na faixa **Frágil** independentemente do escore de fragilidade obtido quando ICC ou DPOC coexistente
 - Sessões mais curtas: 15–20 minutos, com maior frequência semanal (3–5×/semana se tolerado)
 - RPE ≤ 13 (Borg 6-20) como limite superior de esforço
 - Sessões supervisionadas obrigatórias nas primeiras 4 semanas
 - Oximetria de pulso durante exercício se disponível
+- Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores
+
+### 11.4 Especificidades P-04 Osteoporose
+
+**Manobra de Valsalva e Risco Vertebral:**
+- Durante exercício resistido, a manobra de Valsalva gera aumento abrupto de pressão intra-abdominal e intra-torácica, que pode exceder a resistência vertebral em osteoporose grave
+- **Regra absoluta:** Expiração contínua e controlada em TODOS os exercícios resistidos — nunca prender a respiração
+- Instrução verbal antes de cada série: "Sopre ao esforço; inspire no retorno"
+- Em pacientes com T-score < -2,5 em coluna vertebral: manter carga resistida ≤ 40% do máximo e nunca executar exercício até falha muscular
+
+**Hipotensão Ortostática com Bifosfonatos:**
+- Bifosfonatos (alendronato, ibandronato, ácido zoledrônico) podem causar reação pós-infusão com hipotensão transitória (especialmente ácido zoledrônico IV)
+- Verificar se paciente recebeu infusão IV nas últimas 48–72h; se sim, monitorar PA antes e durante a sessão
+- Corticosteroides crônicos (causa secundária de osteoporose frequente): verificar presença — corticosteroides aumentam risco cardiovascular e adrenal; atentar para resposta atipicamente baixa de PA ao exercício
 
 ---
 

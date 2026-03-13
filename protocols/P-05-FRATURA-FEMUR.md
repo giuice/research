@@ -713,35 +713,67 @@ Referência primária: IGFS Consensus 2021 (PMC7366407)
 
 ## 11. Precauções Cardiorrespiratórias
 
-### 11.1 Avaliação Pré-Participação (Herdada de SHARED-FOUNDATION Seção 7.4)
+> **SEÇÃO UNIVERSAL — TEMPLATE CARDIORRESPIRATÓRIO (SHARED-FOUNDATION Seção 7.4)**
+> Esta seção segue o template universal padronizado para todos os protocolos desta série após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são idênticas em todos os protocolos; 11.3–11.4 são específicas do diagnóstico primário.
 
-Todo paciente idoso deve ter avaliação cardiovascular documentada antes de iniciar exercício de intensidade moderada a intensa:
-- PA basal (em repouso, sentado, após 5 minutos)
-- FC de repouso
-- História de ICC, DPOC, arritmias, angina, infarto prévio
-- SpO₂ basal (se disponível)
-- Medicamentos cardiovasculares em uso (ver Seção 10)
+### 11.1 Protocolo de Avaliação Pré-Sessão (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
-### 11.2 Indicadores de Parada Imediata
+**Registrar antes de CADA sessão:**
+
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
+
+### 11.2 Indicadores de Parada Imediata (UNIVERSAL — SHARED-FOUNDATION Seção 7.4)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica ou irradiação | Qualquer ocorrência |
-| Dispneia súbita e desproporcional | Qualquer ocorrência |
-| Palpitações com tontura/síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço | > 10 mmHg |
-| SpO₂ | < 90% |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
 
-### 11.3 Adaptações para ICC ou DPOC Conhecida
+### 11.3 Adaptações por Comorbidade Cardiorrespiratória Coexistente
 
-- Iniciar na faixa **Frágil** independentemente do escore de fragilidade
+- Iniciar na faixa **Frágil** independentemente do escore de fragilidade quando ICC ou DPOC coexistente
 - Sessões mais curtas: 15–20 min, com maior frequência (3–5×/sem se tolerado)
 - RPE ≤ 13 (Borg 6-20) como limite superior de esforço
 - Sessões supervisionadas obrigatórias nas primeiras 4 semanas
 - Oximetria de pulso durante exercício se disponível
+- Consultar P-15 (DPOC) ou P-16 (IC) como comodificadores
 
-> **Placeholder para Fase 6:** P-15 (DPOC) e P-16 (ICC) fornecerão precauções cardiorrespiratórias detalhadas para atualização retroativa nesta seção.
+### 11.4 Especificidades P-05 Fratura de Fêmur
+
+**Vigilância de TEV (Tromboembolismo Venoso) Pós-Operatória:**
+- Fratura de quadril é o procedimento com maior risco de TVP/TEP entre os cobertos por esta série
+- Escopo de prática: fisioterapia NÃO prescreve anticoagulação; a tabela abaixo define implicações de exercício apenas
+
+| Agente Anticoagulante | Implicações para Exercício |
+|-----------------------|---------------------------|
+| HBPM (enoxaparina) | Mobilização precoce < 48h como profilaxia mecânica complementar |
+| DOACs (apixabana, rivaroxabana) | Sem restrição específica de exercício; verificar adesão |
+| Aspirina (profilaxia TEV) | Sem restrição de exercício; monitorar sinais de sangramento em quedas |
+| Varfarina | INR > 3,5 = suspender exercício de alta intensidade e contato médico |
+
+> **Sinais de alerta de TEP durante exercício:** Dispneia súbita desproporcional + dor torácica pleurítica + SpO₂ em queda = SAMU 192 imediatamente.
+
+**Anemia Pós-Operatória e Tolerância ao Exercício:**
+- Hemoglobina < 8 g/dL: evitar exercício aeróbico de intensidade moderada-alta; focar em mobilização leve
+- Hemoglobina 8–10 g/dL: permitido com monitoramento de SpO₂ — dessaturação pode ocorrer precocemente
+- Verificar hemograma mais recente na admissão; solicitar atualização se > 2 semanas
+
+**Hipotensão Ortostática Pós-Imobilização:**
+- Imobilidade pós-fratura + analgesia opioide + anestesia espinal aumentam risco de hipotensão ortostática
+- Protocolo de verticalização progressiva nas primeiras 72h: deitado → sentado (5 min) → ortostatismo (2 min) com PA verificada em cada posição
+- Queda PA sistólica > 20 mmHg ao ortostatismo = hipotensão ortostática confirmada → adaptar exercícios; evitar ortostatismo prolongado; comunicar equipe médica
 
 ---
 
