@@ -56,8 +56,8 @@
 - [x] **PROT-08**: P-03 AVC/AVE (fase crônica, neuroplasticidade)
 - [x] **PROT-09**: P-06 Doença de Parkinson
 - [x] **PROT-10**: P-18 Demência / Alzheimer (leve a moderado)
-- [ ] **PROT-11**: P-15 DPOC (reabilitação respiratória)
-- [ ] **PROT-12**: P-16 Insuficiência Cardíaca / Cardiopatias
+- [x] **PROT-11**: P-15 DPOC (reabilitação respiratória)
+- [x] **PROT-12**: P-16 Insuficiência Cardíaca / Cardiopatias
 - [ ] **PROT-13**: P-02 Lombalgia Crônica e Estenose de Canal
 - [ ] **PROT-14**: P-09 Artrose de Coluna / Espondilose
 - [ ] **PROT-15**: P-12 Dor Lombar Crônica Inespecífica
