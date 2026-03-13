@@ -17,7 +17,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [ ] **Phase 3: Infraestrutura de Segurança de Quedas** - P-07 Quedas e Síndrome Pós-Queda (balance hierarchy and session-level fall risk protocol)
 - [x] **Phase 4: Musculoesquelético Alta Dependência** - P-05 Fratura de Fêmur, P-10 ATJ, P-11 ATQ (post-op and fracture protocols) (completed 2026-03-13)
 - [x] **Phase 5: Cluster Neuromotor** - P-03 AVC, P-06 Parkinson, P-18 Demência (neurological protocols) (completed 2026-03-13)
-- [ ] **Phase 6: Cluster Cardiorrespiratório** - P-15 DPOC e P-16 Insuficiência Cardíaca (with retroactive cardiorespiratory precautions update)
+- [x] **Phase 6: Cluster Cardiorrespiratório** - P-15 DPOC e P-16 Insuficiência Cardíaca (with retroactive cardiorespiratory precautions update) (completed 2026-03-13)
 - [ ] **Phase 7: Musculoesquelético Secundário e Dor Crônica** - P-02, P-09, P-12, P-19 Lombalgia/Coluna + P-13 Ombro e P-20 Gonalgia/Coxalgia
 - [ ] **Phase 8: Protocolos Especializados** - P-17 Neuropatia Periférica e P-14 Disfunção do Assoalho Pélvico + Cross-Reference Index finalizado
 
@@ -150,6 +150,6 @@ Phases execute in strict sequential order: 1 → 2 → 3 → 4 → 5 → 6 → 7
 | 3. Infraestrutura de Segurança de Quedas | 0/1 | Not started | - |
 | 4. Musculoesquelético Alta Dependência | 2/2 | Complete   | 2026-03-13 |
 | 5. Cluster Neuromotor | 2/2 | Complete   | 2026-03-13 |
-| 6. Cluster Cardiorrespiratório | 1/2 | In Progress|  |
+| 6. Cluster Cardiorrespiratório | 2/2 | Complete   | 2026-03-13 |
 | 7. Musculoesquelético Secundário e Dor Crônica | 0/3 | Not started | - |
 | 8. Protocolos Especializados | 0/3 | Not started | - |

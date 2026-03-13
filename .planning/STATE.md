@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 06-01-PLAN.md — P-15-DPOC.md (813 linhas, 15 seções) e P-16-INSUFICIENCIA-CARDIACA.md (858 linhas, 15 seções) criados; template universal Seção 11 estabelecido; SHARED-FOUNDATION P-15 e P-16 rows populados; Phase 6 Plan 1 complete
-last_updated: "2026-03-13T22:09:18.497Z"
+stopped_at: Completed 06-02-PLAN.md — Universal Cardiorespiratory Precautions template applied retroactively to 10 Phase 1-5 protocols; SHARED-FOUNDATION Section 7.4.5 documents retroactive pass; Phase 6 complete
+last_updated: "2026-03-13T22:20:18.949Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
-  completed_phases: 5
+  completed_phases: 6
   total_plans: 11
-  completed_plans: 10
+  completed_plans: 11
   percent: 12
 ---
 
@@ -57,6 +57,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 05-cluster-neuromotor P01 | 8 | 2 tasks | 2 files |
 | Phase 05-cluster-neuromotor P02 | 15 | 2 tasks | 3 files |
 | Phase 06-cluster-cardiorrespiratorio P01 | 15 | 2 tasks | 3 files |
+| Phase 06-cluster-cardiorrespiratorio P02 | 20 | 2 tasks | 11 files |
 
 ## Accumulated Context
 
@@ -101,6 +102,8 @@ Recent decisions affecting current work:
 - [Phase 06-01]: SpO2 90% como limiar de NÃO-INÍCIO e 88% como parada imediata em DPOC — valor conservador para contexto geriátrico
 - [Phase 06-01]: Template universal Seção 11 estabelecido em P-15 com 5 subseções — herdado por P-16 e retroativo para 10 protocolos anteriores em Plano 06-02
 - [Phase 06-01]: RPE Borg 6-20 exclusivo em IC com betabloqueador — FC contraindicada como parâmetro de intensidade (cronotropia negativa); MLHFQ e CAT-BR com nota de cautela de validação cultural
+- [Phase Phase 06-02]: Universal template 11.1 + 11.2 applied VERBATIM to all 10 Phase 1-5 protocols — consistent thresholds PA >180/110, FC >120, SpO2 <90%, Borg >=5 across 12-protocol corpus
+- [Phase Phase 06-02]: Phases 7-8 protocols must include universal cardiorespiratory template at creation time — SHARED-FOUNDATION Seção 7.4.5 is the instruction and audit record
 
 ### Pending Todos
 
@@ -116,6 +119,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-13T22:09:18.492Z
-Stopped at: Completed 06-01-PLAN.md — P-15-DPOC.md (813 linhas, 15 seções) e P-16-INSUFICIENCIA-CARDIACA.md (858 linhas, 15 seções) criados; template universal Seção 11 estabelecido; SHARED-FOUNDATION P-15 e P-16 rows populados; Phase 6 Plan 1 complete
+Last session: 2026-03-13T22:20:18.945Z
+Stopped at: Completed 06-02-PLAN.md — Universal Cardiorespiratory Precautions template applied retroactively to 10 Phase 1-5 protocols; SHARED-FOUNDATION Section 7.4.5 documents retroactive pass; Phase 6 complete
 Resume file: None
