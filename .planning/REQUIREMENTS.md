@@ -50,7 +50,7 @@
 - [x] **PROT-02**: P-08 Sarcopenia / Fraqueza Generalizada — cross-protocol resistance dosing modifier
 - [x] **PROT-03**: P-04 Osteoporose — cross-protocol bone-loading constraint
 - [x] **PROT-04**: P-07 Quedas e Síndrome Pós-Queda — balance hierarchy + session fall risk protocol
-- [ ] **PROT-05**: P-05 Fratura de Fêmur Proximal / Quadril
+- [x] **PROT-05**: P-05 Fratura de Fêmur Proximal / Quadril
 - [x] **PROT-06**: P-10 Pós-op Artroplastia Total de Joelho (ATJ)
 - [x] **PROT-07**: P-11 Pós-op Artroplastia Total de Quadril (ATQ)
 - [ ] **PROT-08**: P-03 AVC/AVE (fase crônica, neuroplasticidade)
@@ -122,12 +122,12 @@
 | OUT-03 | Phase 1 | Fundação e Template | Done — 01-02 |
 | OUT-04 | Phase 1 | Fundação e Template | Done — 01-01 (skeleton); 01-02 (P-01 row) |
 | PROT-01 | Phase 1 | Fundação e Template | Done — 01-02 |
-| PROT-02 | Phase 2 | Modificadores Transversais | Pending |
-| PROT-03 | Phase 2 | Modificadores Transversais | Pending |
-| PROT-04 | Phase 3 | Infraestrutura de Segurança de Quedas | Pending |
-| PROT-05 | Phase 4 | Musculoesquelético Alta Dependência | Pending |
-| PROT-06 | Phase 4 | Musculoesquelético Alta Dependência | Pending |
-| PROT-07 | Phase 4 | Musculoesquelético Alta Dependência | Pending |
+| PROT-02 | Phase 2 | Modificadores Transversais | Done — 02 (2026-03-12) |
+| PROT-03 | Phase 2 | Modificadores Transversais | Done — 02 (2026-03-12) |
+| PROT-04 | Phase 3 | Infraestrutura de Segurança de Quedas | Done — 03 (2026-03-12) |
+| PROT-05 | Phase 4 | Musculoesquelético Alta Dependência | Done — 04-01 (2026-03-13) |
+| PROT-06 | Phase 4 | Musculoesquelético Alta Dependência | Done — 04-02 (2026-03-13) |
+| PROT-07 | Phase 4 | Musculoesquelético Alta Dependência | Done — 04-02 (2026-03-13) |
 | PROT-08 | Phase 5 | Cluster Neuromotor | Pending |
 | PROT-09 | Phase 5 | Cluster Neuromotor | Pending |
 | PROT-10 | Phase 5 | Cluster Neuromotor | Pending |
@@ -149,4 +149,4 @@
 
 ---
 *Requirements defined: 2026-03-12*
-*Last updated: 2026-03-12 after plan 01-01 completion*
+*Last updated: 2026-03-13 after phase 04 completion*
