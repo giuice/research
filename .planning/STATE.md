@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 02-01-PLAN.md — P-08-SARCOPENIA.md created (15 sections, EWGSOP2 FACS, MODIFICADOR TRANSVERSAL resistance dosing table); SHARED-FOUNDATION P-08 row populated; ready for Plan 02-02 (P-04-OSTEOPOROSE)
-last_updated: "2026-03-13T13:44:24.561Z"
+stopped_at: Completed 02-02-PLAN.md — P-04-OSTEOPOROSE.md created (15 sections, 4-category bone-loading constraint table MODIFICADOR TRANSVERSAL, P-08 cross-reference, HEP adherence); SHARED-FOUNDATION P-04 row populated; Phase 2 complete — ready for Phase 3
+last_updated: "2026-03-13T14:00:40.256Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
-  completed_phases: 1
+  completed_phases: 2
   total_plans: 4
-  completed_plans: 3
+  completed_plans: 4
   percent: 12
 ---
 
@@ -51,6 +51,7 @@ Progress: [██░░░░░░░░] 12%
 
 *Updated after each plan completion*
 | Phase 02-modificadores-transversais P01 | 8 | 2 tasks | 2 files |
+| Phase 02-modificadores-transversais P02 | 12 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -77,6 +78,10 @@ Recent decisions affecting current work:
 - [Phase 02-01]: Fried Frailty Phenotype used as dosage stratifier in P-08 (not EWGSOP2 severity) — consistency with SHARED-FOUNDATION and all 20 protocols
 - [Phase 02-01]: Sarcopenia Grave + Fragil interaction: 20% additional load reduction on Fragil tier baseline for safety margin
 - [Phase 02-01]: P-08 Protein-exercise coordination classified as Nivel A (CEBM 1) — PROT-AGE (2013) + PMC12288929 (2025) Level 1 evidence
+- [Phase 02-02]: FRAX + T-score dual-stratification adopted — T-score alone subestima risco (maioria das fraturas ocorre com T-score > -2.5)
+- [Phase 02-02]: 4 fracture risk categories (Baixo/Médio/Alto/Muito Alto) × 3 axes (espinal/impacto/resistência) established as cross-protocol bone-loading constraint modifier table in P-04 Seção 5.2
+- [Phase 02-02]: Spinal extension recommended (Nível B, Sinaki 1984) and hip hinge as universal precaution for all patients regardless of fracture risk category
+- [Phase 02-02]: P-08 Seção 6.3 cross-referenced (not re-derived) for resistance dosing — preserves modifier chain integrity for osteosarcopenia co-treatment
 
 ### Pending Todos
 
@@ -92,6 +97,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-13T13:44:24.557Z
-Stopped at: Completed 02-01-PLAN.md — P-08-SARCOPENIA.md created (15 sections, EWGSOP2 FACS, MODIFICADOR TRANSVERSAL resistance dosing table); SHARED-FOUNDATION P-08 row populated; ready for Plan 02-02 (P-04-OSTEOPOROSE)
+Last session: 2026-03-13T14:00:40.253Z
+Stopped at: Completed 02-02-PLAN.md — P-04-OSTEOPOROSE.md created (15 sections, 4-category bone-loading constraint table MODIFICADOR TRANSVERSAL, P-08 cross-reference, HEP adherence); SHARED-FOUNDATION P-04 row populated; Phase 2 complete — ready for Phase 3
 Resume file: None
