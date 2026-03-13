@@ -49,7 +49,7 @@
 - [x] **PROT-01**: P-01 Osteoartrite / Artrose (joelho, quadril, coluna, mãos) — template protocol — DONE 01-02 (2026-03-12, commits 6bc6ddd, 79fa068)
 - [x] **PROT-02**: P-08 Sarcopenia / Fraqueza Generalizada — cross-protocol resistance dosing modifier
 - [x] **PROT-03**: P-04 Osteoporose — cross-protocol bone-loading constraint
-- [ ] **PROT-04**: P-07 Quedas e Síndrome Pós-Queda — balance hierarchy + session fall risk protocol
+- [x] **PROT-04**: P-07 Quedas e Síndrome Pós-Queda — balance hierarchy + session fall risk protocol
 - [ ] **PROT-05**: P-05 Fratura de Fêmur Proximal / Quadril
 - [ ] **PROT-06**: P-10 Pós-op Artroplastia Total de Joelho (ATJ)
 - [ ] **PROT-07**: P-11 Pós-op Artroplastia Total de Quadril (ATQ)
