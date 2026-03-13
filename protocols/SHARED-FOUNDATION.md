@@ -563,6 +563,45 @@ Exemplo aplicável a exercício resistido de membros inferiores (adaptável para
 4. **SpO₂ ≤ 90% em qualquer protocolo:** NÃO iniciar exercício aeróbico — regra universal
 5. **FC com betabloqueador:** RPE exclusivamente — regra universal para todos os protocolos quando betabloqueador documentado
 
+#### 7.4.5 Passe Retroativo — Precauções Cardiorrespiratórias (Fase 6, Plano 06-02)
+
+> **Data do passe retroativo:** 2026-03-13
+> **Executor:** Plano 06-02 — Cluster Cardiorrespiratório
+> **Fonte do template:** P-15-DPOC.md Seção 11.1 + 11.2 (template canônico)
+
+**Status de cada protocolo da série:**
+
+| Protocolo | Condição | Status | Subseção 11.4 Adicionada |
+|-----------|----------|--------|--------------------------|
+| **P-01** | Osteoartrite | ATUALIZADO — Plano 06-02 (2026-03-13) | Risco cardiovascular em sedentário + AINEs |
+| **P-03** | AVC (fase crônica) | ATUALIZADO — Plano 06-02 (2026-03-13) | FA + anticoagulação + disfunção autonômica pós-AVC |
+| **P-04** | Osteoporose | ATUALIZADO — Plano 06-02 (2026-03-13) | Valsalva + bifosfonatos + corticosteroides |
+| **P-05** | Fratura de Fêmur | ATUALIZADO — Plano 06-02 (2026-03-13) | TEV + anemia pós-op + hipotensão ortostática pós-imobilização |
+| **P-06** | Parkinson | ATUALIZADO — Plano 06-02 (2026-03-13) | Disautonomia autonômica + comprometimento respiratório + levodopa |
+| **P-07** | Quedas | ATUALIZADO — Plano 06-02 (2026-03-13) | HO como fator de risco de queda + PBT precauções + STOPPFall |
+| **P-08** | Sarcopenia | ATUALIZADO — Plano 06-02 (2026-03-13) | HIRT cardiovascular screening + Valsalva em alta carga |
+| **P-10** | ATJ | ATUALIZADO — Plano 06-02 (2026-03-13) | TEV pós-ATJ + estresse de torniquete + hipotensão ortostática |
+| **P-11** | ATQ | ATUALIZADO — Plano 06-02 (2026-03-13) | TEV pós-ATQ + risco cardiovascular cirúrgico + hipotensão ortostática |
+| **P-15** | DPOC | ORIGINAL — template criado em Plano 06-01 (2026-03-13) | Dessaturação silenciosa + suplementação O₂ + broncodilatador |
+| **P-16** | Insuficiência Cardíaca | ORIGINAL — template criado em Plano 06-01 (2026-03-13) | Peso diário + termorregulação + RPE exclusivo |
+| **P-18** | Demência | ATUALIZADO — Plano 06-02 (2026-03-13) | Capacidade limitada de autorrelato + tabela de sinais comportamentais |
+
+**Valores canônicos de limiar (referência única — não alterar individualmente):**
+
+| Parâmetro | Limiar de NÃO-INÍCIO | Limiar de PARADA IMEDIATA |
+|-----------|----------------------|--------------------------|
+| PA sistólica/diastólica | > 180/110 mmHg (aguardar 10 min + reavaliar) | > 200 mmHg durante exercício |
+| FC de repouso | > 120 bpm | Queda de PA sistólica > 10 mmHg durante esforço |
+| SpO₂ basal | ≤ 90% (sem avaliação/suplementação) | < 90% durante exercício (P-15 DPOC: < 88%) |
+| Borg Dispneia (0–10) em repouso | ≥ 5 | ≥ 8 durante exercício |
+| Edema de tornozelo | Novo ou piora aguda | — |
+
+**Instrução para protocolos das Fases 7–8:**
+- Protocolos futuros (P-02, P-09, P-12, P-13, P-14, P-17, P-19, P-20) devem incluir o template universal em sua Seção 11 **no momento da criação** — não aguardar passe retroativo
+- Subseções 11.1 e 11.2 devem ser copiadas verbatim desta seção 7.4
+- Subseção 11.3 deve incluir adaptações por ICC/DPOC coexistente com referência a P-15 e P-16
+- Subseção 11.4 deve incluir especificidades cardiorrespiratórias do diagnóstico primário do novo protocolo
+
 ---
 
 ## 8. Esqueleto do Índice de Referência Cruzada
