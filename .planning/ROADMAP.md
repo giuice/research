@@ -47,7 +47,7 @@ Plans:
   1. P-08 Sarcopenia includes a frailty-stratified resistance training dosage table (referencing EWGSOP2 criteria) that any subsequent protocol can cite as the authoritative geriatric resistance dosing modifier
   2. P-04 Osteoporose includes explicit bone-loading constraint thresholds (impact, compression, torsion limits by BMD category) that govern all fracture, arthroplasty, and vertebral protocols
   3. Both protocols are self-contained, TIDieR/CERT compliant, fully in Brazilian Portuguese, and inherit all Phase 1 template standards without deviation
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
 - [ ] 02-01: P-08 Sarcopenia — research and complete protocol with EWGSOP2-anchored resistance dosing table and polypharmacy interaction section (protein-exercise coordination, dietitian referral pathway)
