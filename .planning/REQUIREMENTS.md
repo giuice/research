@@ -53,7 +53,7 @@
 - [x] **PROT-05**: P-05 Fratura de Fêmur Proximal / Quadril
 - [x] **PROT-06**: P-10 Pós-op Artroplastia Total de Joelho (ATJ)
 - [x] **PROT-07**: P-11 Pós-op Artroplastia Total de Quadril (ATQ)
-- [ ] **PROT-08**: P-03 AVC/AVE (fase crônica, neuroplasticidade)
+- [x] **PROT-08**: P-03 AVC/AVE (fase crônica, neuroplasticidade)
 - [ ] **PROT-09**: P-06 Doença de Parkinson
 - [ ] **PROT-10**: P-18 Demência / Alzheimer (leve a moderado)
 - [ ] **PROT-11**: P-15 DPOC (reabilitação respiratória)

@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 04-02-PLAN.md — P-10-ATJ.md (922 lines, 15 sections) and P-11-ATQ.md (978 lines, 15 sections) created; SHARED-FOUNDATION P-10/P-11 rows populated; Phase 4 Plan 2 complete
-last_updated: "2026-03-13T18:41:51.565Z"
+stopped_at: Completed 05-01-PLAN.md — P-03-AVC.md (1147 lines, 15 sections) created; TEMPLATE CLUSTER NEUROMOTOR established; SHARED-FOUNDATION P-03 row populated; Phase 5 Plan 1 complete
+last_updated: "2026-03-13T19:33:12.751Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
   completed_phases: 4
-  total_plans: 7
-  completed_plans: 7
+  total_plans: 9
+  completed_plans: 8
   percent: 12
 ---
 
@@ -54,6 +54,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 02-modificadores-transversais P02 | 12 | 2 tasks | 2 files |
 | Phase 03-infraestrutura-de-seguranca-de-quedas P01 | 10 | 2 tasks | 2 files |
 | Phase 04-musculoesqueletico-alta-dependencia P02 | 14 | 2 tasks | 3 files |
+| Phase 05-cluster-neuromotor P01 | 8 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -90,6 +91,7 @@ Recent decisions affecting current work:
 - [Phase 04-02]: [04-02]: Scope differentiation analysis before drafting — explicit NÃO COBRE blocks prevent content overlap between P-10 (ATJ) and P-11 (ATQ)
 - [Phase 04-02]: [04-02]: P-11 adopts declared policy on posterior approach precautions — 2024 meta-analysis (PMC11651519) presented; conduta follows surgeon orientation; no auto-relaxation at 6 weeks
 - [Phase 04-02]: [04-02]: WOMAC-BR as primary functional outcome for P-10 and P-11 — KOOS-BR excluded due to absence of confirmed Brazilian validation
+- [Phase 05-01]: P-03 AVC fase crônica escopo exclusivo (> 6 meses) — NÃO COBRE agudo/subagudo; BBS-BR >= 40 + TUG < 20 como critérios de entrada para TEMPLATE CLUSTER NEUROMOTOR; PAINAD-BR como instrumento primário de dor em afasia grave; mCIMT adaptado para geriatria (3h/dia, 4 semanas)
 
 ### Pending Todos
 
@@ -105,6 +107,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-13T18:36:07.594Z
-Stopped at: Completed 04-02-PLAN.md — P-10-ATJ.md (922 lines, 15 sections) and P-11-ATQ.md (978 lines, 15 sections) created; SHARED-FOUNDATION P-10/P-11 rows populated; Phase 4 Plan 2 complete
+Last session: 2026-03-13T19:33:12.748Z
+Stopped at: Completed 05-01-PLAN.md — P-03-AVC.md (1147 lines, 15 sections) created; TEMPLATE CLUSTER NEUROMOTOR established; SHARED-FOUNDATION P-03 row populated; Phase 5 Plan 1 complete
 Resume file: None
