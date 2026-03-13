@@ -559,7 +559,7 @@ Todo paciente idoso deve ter avaliação cardiovascular documentada antes de ini
 | **P-05** | Fratura de Fêmur Proximal / Quadril | — | — | — |
 | **P-06** | Doença de Parkinson | — | — | — |
 | **P-07** | Quedas e Síndrome Pós-Queda | — | — | — |
-| **P-08** | Sarcopenia / Fraqueza Generalizada | — | — | — |
+| **P-08** | Sarcopenia / Fraqueza Muscular Generalizada | P-04 (Osteoporose — osteosarcopenia), P-01 (OA — fraqueza potencializa carga articular), P-05 (Fratura de Fêmur — sarcopenia retarda reabilitação), P-07 (Quedas — sarcopenia é fator de risco muscular primário), P-10 (ATJ), P-11 (ATQ) | **Dosagem de resistência:** Tabela Modificador Transversal em P-08 Seção 6.3 — todos os protocolos que abordam exercício resistido em sarcopenia devem citar esta tabela. Estratificação por Fragilidade (Fried): Robusto 65% 1RM / 3 séries / 8–12 reps / 3×sem; Pré-frágil 50% 1RM / 2–3 séries / 8–12 reps / 2–3×sem; Frágil 35% 1RM / 2 séries / 6–10 reps / 2×sem. Duração mínima: 12 semanas. | EWGSOP2 FACS — gravidade (Grave = gait < 0,8 m/s ou SPPB ≤ 8 ou TUG > 20 seg) reduz carga inicial adicional em 20% na faixa Frágil; encaminhamento ao nutricionista obrigatório quando ingestão proteica < 1,0 g/kg/dia, IMC < 22 ou sarcopenia grave; coordenar com P-04 em osteosarcopenia |
 | **P-09** | Artrose de Coluna / Espondilose | — | — | — |
 | **P-10** | Pós-op Artroplastia Total de Joelho (ATJ) | — | — | — |
 | **P-11** | Pós-op Artroplastia Total de Quadril (ATQ) | — | — | — |
