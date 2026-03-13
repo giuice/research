@@ -61,7 +61,7 @@ Plans:
   1. P-07 includes the balance intervention hierarchy with objective entry criteria for each level, referenced by all neuromotor and frailty protocols in Phases 4–8
   2. The session-level fall risk protocol (pre-session fatigue VAS, orthostatic BP check, gait belt criteria by TUG score, supervised exit protocol) is fully defined in P-07 and formatted as a reusable section template
   3. P-07 is self-contained, TIDieR/CERT compliant, fully in Brazilian Portuguese, and inherits all Phase 1 template standards
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
 - [ ] 03-01: P-07 Quedas e Síndrome Pós-Queda — research and complete protocol with balance hierarchy, kinesiophobia screening (Tampa Scale), session fall risk protocol template, and red flag escalation table
