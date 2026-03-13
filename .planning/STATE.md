@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 05-01-PLAN.md — P-03-AVC.md (1147 lines, 15 sections) created; TEMPLATE CLUSTER NEUROMOTOR established; SHARED-FOUNDATION P-03 row populated; Phase 5 Plan 1 complete
-last_updated: "2026-03-13T19:33:12.751Z"
+stopped_at: Completed 05-02-PLAN.md — P-06-PARKINSON.md (850 linhas, 15 seções) e P-18-DEMENCIA.md (902 linhas, 15 seções) criados; cluster neuromotor completo; SHARED-FOUNDATION P-06 e P-18 rows populados; Phase 5 Plan 2 complete
+last_updated: "2026-03-13T19:52:13.568Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
-  completed_phases: 4
+  completed_phases: 5
   total_plans: 9
-  completed_plans: 8
+  completed_plans: 9
   percent: 12
 ---
 
@@ -55,6 +55,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 03-infraestrutura-de-seguranca-de-quedas P01 | 10 | 2 tasks | 2 files |
 | Phase 04-musculoesqueletico-alta-dependencia P02 | 14 | 2 tasks | 3 files |
 | Phase 05-cluster-neuromotor P01 | 8 | 2 tasks | 2 files |
+| Phase 05-cluster-neuromotor P02 | 15 | 2 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -92,6 +93,10 @@ Recent decisions affecting current work:
 - [Phase 04-02]: [04-02]: P-11 adopts declared policy on posterior approach precautions — 2024 meta-analysis (PMC11651519) presented; conduta follows surgeon orientation; no auto-relaxation at 6 weeks
 - [Phase 04-02]: [04-02]: WOMAC-BR as primary functional outcome for P-10 and P-11 — KOOS-BR excluded due to absence of confirmed Brazilian validation
 - [Phase 05-01]: P-03 AVC fase crônica escopo exclusivo (> 6 meses) — NÃO COBRE agudo/subagudo; BBS-BR >= 40 + TUG < 20 como critérios de entrada para TEMPLATE CLUSTER NEUROMOTOR; PAINAD-BR como instrumento primário de dor em afasia grave; mCIMT adaptado para geriatria (3h/dia, 4 semanas)
+- [Phase 05-02]: Treinamento de cuidadores integrado como componente FORMAL nas fases em P-06 e P-18 — 3 sessões obrigatórias com conteúdo estruturado por fase
+- [Phase 05-02]: MMSE < 24 é o corte mandatório para HEP pictográfico — abaixo deste ponto HEP textual padrão é contraindicado
+- [Phase 05-02]: Cuidador identificado é CRITÉRIO DE INCLUSÃO em P-18 (não recomendação) — sem cuidador o protocolo não pode ser aplicado com segurança
+- [Phase 05-02]: Abbey Pain Scale citada com BAIXA CONFIANÇA explícita — validação cultural BR não confirmada; PAINAD-BR permanece como instrumento primário
 
 ### Pending Todos
 
@@ -107,6 +112,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-13T19:33:12.748Z
-Stopped at: Completed 05-01-PLAN.md — P-03-AVC.md (1147 lines, 15 sections) created; TEMPLATE CLUSTER NEUROMOTOR established; SHARED-FOUNDATION P-03 row populated; Phase 5 Plan 1 complete
+Last session: 2026-03-13T19:52:13.564Z
+Stopped at: Completed 05-02-PLAN.md — P-06-PARKINSON.md (850 linhas, 15 seções) e P-18-DEMENCIA.md (902 linhas, 15 seções) criados; cluster neuromotor completo; SHARED-FOUNDATION P-06 e P-18 rows populados; Phase 5 Plan 2 complete
 Resume file: None
