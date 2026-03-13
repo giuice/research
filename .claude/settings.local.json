@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node \"$HOME/.claude/get-shit-done/bin/gsd-tools.cjs\" commit \"docs: initialize project\" --files .planning/PROJECT.md)",
+      "Bash(git add:*)",
+      "Bash(node \"C:/Users/giuliano.lemes/.claude/get-shit-done/bin/gsd-tools.cjs\" commit \"docs: complete project research\" --files .planning/research/)",
+      "WebSearch",
+      "Bash(node \"$HOME/.claude/get-shit-done/bin/gsd-tools.cjs\" commit \"docs\\(phase-01\\): complete phase execution\" --files .planning/ROADMAP.md .planning/STATE.md .planning/REQUIREMENTS.md \".planning/phases/01-fundacao-e-template/01-VERIFICATION.md\" 2>&1)"
+    ]
+  }
+}
