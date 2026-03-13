@@ -514,39 +514,60 @@ Exemplo aplicável a exercício resistido de membros inferiores (adaptável para
 
 ---
 
-### 7.4 Precauções Cardiorrespiratórias
+### 7.4 Precauções Cardiorrespiratórias — Template Universal
 
-**Avaliação Pré-Participação:**
-Todo paciente idoso deve ter avaliação cardiovascular documentada antes de iniciar exercício de intensidade moderada a intensa. Verificar e registrar:
-- PA basal (em repouso, sentado, após 5 minutos)
-- FC de repouso
-- História de ICC, DPOC, arritmias, angina, infarto prévio
-- Saturação O₂ basal (se disponível)
-- Medicamentos cardiovasculares em uso (ver Seção 7.3)
+> **Template Universal Estabelecido em Fase 6 (P-15 + P-16):** Esta seção define o template de Precauções Cardiorrespiratórias padronizado que todos os 20 protocolos desta série adotam em sua Seção 11 após o passe retroativo da Fase 6 (Plano 06-02). As subseções 11.1 e 11.2 são IDÊNTICAS em todos os protocolos; as subseções 11.3–11.5 são adaptadas ao diagnóstico primário de cada protocolo.
 
-**Indicadores de Parada Imediata:**
+#### 7.4.1 Subseção 11.1 — Protocolo de Avaliação Pré-Sessão (UNIVERSAL)
+
+**Registrar antes de CADA sessão:**
+
+| Parâmetro | Procedimento | Critério de NÃO-INÍCIO |
+|-----------|-------------|----------------------|
+| **PA sistólica/diastólica** | Repouso sentado, 5 min, braço direito | > 180/110 mmHg = aguardar 10 min + reavaliar; se mantida = contatar médico |
+| **FC de repouso** | Pulso radial ou monitor, 60 s | > 120 bpm em repouso = não iniciar exercício aeróbico |
+| **SpO₂ basal** | Oxímetro de pulso, dedo indicador, 2 min repouso | ≤ 90% = não iniciar exercício aeróbico sem avaliação |
+| **Dispneia em repouso** | Borg Dispneia 0–10 | ≥ 5 em repouso = não iniciar |
+| **Edema de tornozelo** | Inspeção bilateral | Novo edema ou piora aguda desde última sessão = contatar médico antes |
+
+> **Nota de expansão por diagnóstico:** Protocolos com IC (P-16) adicionam verificação de peso diário nesta tabela. Protocolos com DPOC (P-15) adicionam verificação de sinais de exacerbação.
+
+#### 7.4.2 Subseção 11.2 — Indicadores de Parada Imediata (UNIVERSAL)
 
 | Indicador | Limiar |
 |-----------|--------|
-| Dor torácica, pressão precordial ou irradiação | Qualquer ocorrência |
-| Dispneia súbita e desproporcional ao esforço | Qualquer ocorrência |
-| Palpitações com tontura ou síncope | Qualquer ocorrência |
-| PA sistólica durante exercício | > 200 mmHg |
-| Queda de PA sistólica durante esforço progressivo | > 10 mmHg |
-| Saturação O₂ (se oximetria disponível) | SpO₂ < 90% |
+| **Dor torácica, pressão precordial ou irradiação** | Qualquer ocorrência — SAMU 192 |
+| **Dispneia súbita desproporcional ao esforço** | Qualquer ocorrência |
+| **Palpitações com tontura ou síncope** | Qualquer ocorrência — SAMU 192 |
+| **PA sistólica durante exercício** | > 200 mmHg |
+| **Queda de PA sistólica durante esforço progressivo** | > 10 mmHg |
+| **SpO₂ durante exercício** | < 90% (P-15 DPOC: parada imediata se < 88%) |
+| **Cianose perioral ou periférica** | Qualquer ocorrência — SAMU 192 |
+| **Confusão mental de início agudo** | Qualquer ocorrência — SAMU 192 |
 
-**Adaptações para Pacientes com ICC ou DPOC Conhecida:**
-- Iniciar na faixa **Frágil** independentemente do escore de fragilidade obtido
-- Sessões mais curtas: 15–20 minutos, com maior frequência semanal (3–5×/semana se tolerado)
-- RPE ≤ 13 (Borg 6-20) como limite superior de esforço
-- Sessões supervisionadas obrigatórias nas primeiras 4 semanas
-- Oximetria de pulso durante exercício se disponível
+#### 7.4.3 Estrutura das Subseções 11.3–11.5 (Específicas por Protocolo)
+
+| Subseção | Conteúdo | Notas |
+|----------|---------|-------|
+| **11.3 Monitoramento Durante a Sessão** | SpO₂ e/ou RPE conforme diagnóstico primário | DPOC: SpO₂ a cada 5 min + Borg Dispneia a cada 10 min. IC: RPE Borg 6–20 a cada 10 min (FC apenas observacional) |
+| **11.4 Adaptações por Comorbidade Coexistente** | Modificadores quando DPOC/IC coexiste com diagnóstico primário diferente | DPOC coexistente em IC = P-15 como comodificador. IC coexistente em DPOC = P-16 como comodificador |
+| **11.5 Especificidades do Diagnóstico Primário** | Modificadores únicos ao diagnóstico principal | DPOC: dessaturação silenciosa + suplementação O₂. IC: peso diário + termorregulação + edema |
+
+#### 7.4.4 Regras de Aplicação do Template Universal
+
+1. **Retroativo:** Plano 06-02 insere este template em todos os 10 protocolos das Fases 1–5
+2. **Consistência obrigatória:** Limiares na Subseção 11.1 e 11.2 são idênticos em todos os protocolos — não alterar valores sem revisar TODOS os protocolos
+3. **Escala de Borg — distinção obrigatória:**
+   - **Borg Dispneia 0–10:** diagnóstico primário DPOC (P-15) e como segundo instrumento em outros protocolos
+   - **Borg RPE 6–20:** diagnóstico primário IC (P-16) e em qualquer protocolo com betabloqueador ativo
+4. **SpO₂ ≤ 90% em qualquer protocolo:** NÃO iniciar exercício aeróbico — regra universal
+5. **FC com betabloqueador:** RPE exclusivamente — regra universal para todos os protocolos quando betabloqueador documentado
 
 ---
 
 ## 8. Esqueleto do Índice de Referência Cruzada
 
-> **Status:** A ser preenchido progressivamente à medida que cada protocolo é desenvolvido. Apenas a linha P-01 será parcialmente preenchida após a conclusão do Plano 01-02. As demais linhas representam um shell para preenchimento futuro.
+> **Status:** Preenchido progressivamente conforme cada protocolo é desenvolvido. Linhas preenchidas: P-01, P-03, P-04, P-05, P-06, P-07, P-08, P-10, P-11, P-15, P-16, P-18. Linhas pendentes: P-02, P-09, P-12, P-13, P-14, P-17, P-19, P-20. Última atualização: 2026-03-13 (Fase 6 — P-15 DPOC e P-16 Insuficiência Cardíaca).
 
 ### 8.1 Matriz de Interação entre Protocolos (Shell 20×20)
 
@@ -566,8 +587,8 @@ Todo paciente idoso deve ter avaliação cardiovascular documentada antes de ini
 | **P-12** | Dor Lombar Crônica Inespecífica | — | — | — |
 | **P-13** | Síndrome do Ombro Doloroso | — | — | — |
 | **P-14** | Disfunção do Assoalho Pélvico | — | — | — |
-| **P-15** | DPOC | — | — | — |
-| **P-16** | Insuficiência Cardíaca / Cardiopatias | — | — | — |
+| **P-15** | DPOC | P-01 (OA — limitação de mobilidade coexistente; dor articular governa carga), P-04 (Osteoporose — ICS crônico aumenta risco de perda óssea; ativar P-04 Seção 5.2 quando T-score ≤ -2,5), P-07 (Quedas — descondicionamento + fraqueza + dispneia = risco elevado; citar P-07 Seção 5.2 quando TUG > 13,5 s), P-08 (Sarcopenia — prevalência > 25% em DPOC grave; citar P-08 Seção 6.3 quando dinamometria < EWGSOP2), P-10 (ATJ — coexistência frequente em idosos; limitação funcional aeróbica + reabilitação pós-op), P-11 (ATQ — idem P-10), P-16 (IC — comodificador quando IC coexistente: RPE, peso diário, temperatura; P-15 é base quando DPOC é diagnóstico primário), P-18 (Demência — comprometimento cognitivo afeta aderência ao HEP e monitoramento de SpO₂ domiciliar), P-03 (AVC — cluster cardiorrespiratório pode coexistir com sequela neuromotora; monitoramento SpO₂ durante treino funcional), P-06 (Parkinson — disfunção autonômica + descondicionamento cardiorrespiratório; SpO₂ durante exercício relevante) | **SpO₂ mandatória:** Monitoramento de SpO₂ a cada 5 min durante exercício aeróbico; SpO₂ ≤ 90% = NÃO INICIAR; SpO₂ < 88% = parada imediata. **Borg Dispneia 0–10:** Instrumento primário de intensidade (alvo 4–6). **Template Universal Seção 11 (SHARED-FOUNDATION Seção 7.4):** P-15 estabelece o template de Precauções Cardiorrespiratórias usado em todos os 20 protocolos — subseções 11.1 (pré-sessão) e 11.2 (parada imediata) são universais; 11.3–11.5 são específicas do diagnóstico. **TC6M como desfecho primário:** MCID 25–30 m; equação Britto 2013 BR. **GOLD 2025 + ATS 2023 (PMID 37581410)** como diretrizes primárias. NÃO COBRE: asma não-DPOC, exacerbação aguda, IC como diagnóstico primário (→ P-16), HP severa (PAP > 55 mmHg). Instrumentos: TUG, SPPB-BR, Dinamometria, TC6M (ATS 2002), mMRC, CAT, Borg Dispneia 0–10, SpO₂. | **Dessaturação silenciosa:** DPOC moderada-grave pode ter SpO₂ < 88% sem dispneia proporcional — oximetria objetiva é mandatória, não negociável. **Exacerbação:** Critérios de Anthonisen (aumento de escarro + cor + dispneia) = SUSPENDER PR por 28 dias. **ICS crônico + ≥ 60 anos:** Ativar P-04 Seção 5.2 (osteoporose) + P-08 Seção 6.3 (sarcopenia) simultaneamente. **DPOC + IC coexistente:** P-15 como base (DPOC é diagnóstico primário) + modificadores P-16 (peso diário, RPE, temperatura). **Cadeia de modificadores:** P-04 Seção 5.2 (se osteoporose) → P-08 Seção 6.3 (se sarcopenia) → P-07 Seções 5.2+7.2 (se TUG > 13,5 s) → P-16 (se IC coexistente). |
+| **P-16** | Insuficiência Cardíaca / Cardiopatias | P-01 (OA — artropatia coexistente frequente; cicloergômetro preferencial quando dor articular limita caminhada), P-04 (Osteoporose — corticosteroides crônicos em IC aumentam risco de perda óssea; citar P-04 Seção 5.2), P-07 (Quedas — anticoagulantes + hipotensão ortostática = risco elevado; citar P-07 Seção 5.2 quando TUG > 13,5 s), P-08 (Sarcopenia — prevalência > 20% em IC moderada-grave; citar P-08 Seção 6.3 quando dinamometria < EWGSOP2), P-10 (ATJ — coexistência frequente; cicloergômetro e precauções de ROM compatíveis com reabilitação cardíaca), P-11 (ATQ — precauções de luxação + hipotensão ortostática; anticoagulantes comuns em IC), P-15 (DPOC — comodificador quando DPOC coexistente: Borg Dispneia, SpO₂ contínua; P-16 é base quando IC é diagnóstico primário), P-18 (Demência — comprometimento cognitivo afeta protocolo de peso diário; cuidador como responsável pelo monitoramento), P-06 (Parkinson — disautonomia autonômica em DP + IC; hipotensão ortostática amplificada), P-05 (Fratura de Fêmur — anticoagulação em IC e reabilitação pós-fratura; risco de sangramento em queda) | **RPE Borg 6–20 EXCLUSIVO:** FC CONTRAINDICADA como parâmetro de intensidade em IC com betabloqueador. Betabloqueadores causam cronotropia negativa — FC embotada. Usar RPE 6–20 exclusivamente (alvo 11–13 Robusto; 10–11 Frágil/NYHA III). **Peso diário obrigatório:** Protocolo de pesagem (manhã, mesma balança) + limiares: ≥ 1,5 kg/24h e ≥ 2 kg/3 dias = SUSPENDER + contatar médico. **Termorregulação:** Temperatura ambiente ≤ 22°C ideal; máx 26°C; > 30°C sem AC = suspender. Hidratação pré-sessão 200 mL (se sem restrição hídrica). **IC-FEr vs IC-FEp:** Ambas cobertas — IC-FEp por AHA Scientific Statement 2023 (CIR.0000000000001122). **Template Universal Seção 11 (herdado de P-15):** P-16 herda subseções 11.1 e 11.2 do template P-15 + adapta 11.3–11.5 com modificadores IC-específicos. Instrumentos: TUG, SPPB-BR, Dinamometria, NYHA, MLHFQ (MCID ≥ 5 pts), RPE Borg 6–20, PA, FC repouso, Peso, Edema, TC6M (desfecho secundário). Diretrizes primárias: AHA/ACC/HFSA 2022 (CIR.0000000000001063); AHA Scientific Statement IC-FEp 2023 (CIR.0000000000001122); Diretriz BR Reab. Cardiovascular 2020 (PMC8387006). NÃO COBRE: IC aguda descompensada, NYHA IV instável, DPOC como diagnóstico primário (→ P-15). | **FC embotada por betabloqueador:** FC repouso ≤ 50 bpm = suspender sessão + contatar cardiologista. FC durante exercício é dado observacional de SEGURANÇA, nunca alvo de prescrição. **Valsalva PROIBIDO:** Expiração contínua obrigatória em todos os exercícios resistidos. **Descompensação:** Ganho ≥ 2 kg/3 dias ou ≥ 1,5 kg/24h + edema + ortopneia = SUSPENDER PR; avaliação cardiológica obrigatória antes de retorno. **AINEs CONTRAINDICADOS:** Precipitam retenção hídrica e descompensação — preferir paracetamol. **Digoxina:** FC artificialmente baixa por efeito cronotrópico negativo — RPE exclusivamente. **Cadeia de modificadores:** P-04 Seção 5.2 (se osteoporose por corticosteroide) → P-08 Seção 6.3 (se sarcopenia) → P-07 Seções 5.2+7.2 (se TUG > 13,5 s ou anticoagulante) → P-15 (se DPOC coexistente). |
 | **P-17** | Neuropatia Periférica (diabética) | — | — | — |
 | **P-18** | Demência / Alzheimer (leve a moderado) | P-01 (OA — artropatia coexistente frequente; PAINAD-BR ajuda identificar dor não comunicada), P-03 (AVC — cluster neuromotor compartilhado; TEMPLATE CLUSTER NEUROMOTOR — P-03 Seção 7.2 referenciado por P-18 Fase 3 com adaptações de instrução cognitiva), P-04 (Osteoporose — risco de fratura aumentado em demência; ativar P-04 Seção 5.2; fratura silenciosa frequente), P-05 (Fratura de Fêmur — delirium pós-fratura em 35–65% dos idosos; desafios de adesão; PAINAD-BR mandatório pós-operatório), P-06 (Parkinson — DLB / demência de Parkinson; co-gerenciar P-06 + P-18; timing de levodopa + instrução adaptada simultâneos), P-07 (Quedas — comprometimento cognitivo é fator de risco independente para queda; P-07 Seção 5.2 adaptada para MMSE < 18 com cuidador presente; P-07 Seção 7.2 hierarquia de equilíbrio), P-08 (Sarcopenia — sarcopenia frequente em demência por inatividade e subnutrição; dosagem resistida via P-08 Seção 6.3), P-10 (ATJ — adesão às restrições de ROM comprometida; cuidador deve ser treinado), P-11 (ATQ — adesão às precauções de luxação crítica; cuidador obrigatório na instrução; envolvimento desde admissão) | **Sistema de Instrução Adaptada ao MMSE-BR (Seção 5.3):** 4 estratos (≥ 24, 20–23, < 24, < 18) — técnica de instrução diferenciada obrigatória em cada sessão; fundamentado em aprendizagem procedimental/implícita preservada em Alzheimer (Kalbe 2007). **Política de HEP Pictográfico:** MMSE < 24 = formato pictográfico MANDATÓRIO; máximo 3 exercícios (MMSE 20–23) ou 2 exercícios (MMSE < 18); imagem + símbolo de frequência + ZERO texto descritivo. **Cuidador como co-terapeuta:** Identificação obrigatória na admissão; presença em TODAS as sessões quando MMSE < 18; 3 sessões formais de treinamento de cuidador integradas ao protocolo. **PAINAD-BR:** Instrumento primário de dor para MMSE < 18 ou comunicação verbal comprometida (PubMed 25993063); aplicado em TODAS as sessões para este estrato. **TEMPLATE CLUSTER NEUROMOTOR (Fase 3):** Referência a P-03 Seção 7.2 com adaptações P-18 — tarefa cognitiva FAMILIAR e PROCEDIMENTAL; NUNCA aritmética ou fluência verbal para MMSE < 20. **Consistência de rotina:** Mesmo horário, mesmo espaço, mesmo terapeuta — componente terapêutico, não operacional. Diretrizes primárias: NICE NG97 (2018) + PMC12599043 (2025). NÃO COBRE: demência grave (MMSE < 10, CDR 3), delirium agudo, agitação não controlada. Instrumentos: TUG, SPPB-BR, Dinamometria, BBS-BR, FES-I-BR, MoCA-BR, MMSE-BR (estratificação), PAINAD-BR, CDR. | **Agitação psicomotora:** Causa orgânica obrigatória a excluir (dor oculta — PAINAD-BR, infecção, retenção urinária, constipação) antes de qualquer atribuição comportamental. **Deterioração cognitiva súbita** (MMSE ≥ 5 pontos em < 4 semanas) = emergência neurológica — delirium / AVC / infecção do SNC. **Precauções cirúrgicas (P-10/P-11):** Paciente com demência pode NÃO respeitar restrições de ROM/luxação — cuidador deve ser treinado nas precauções CIRÚRGICAS, não apenas nas de exercício. **Benzodiazepínicos:** AGS Beers potencialmente inapropriado — risco de queda elevado; advocar deprescrição com médico. **Abbey Pain Scale:** Validação cultural BR não confirmada — preferir PAINAD-BR. **Cadeia de modificadores:** P-04 Seção 5.2 (carga óssea) → P-08 Seção 6.3 (resistência) → P-07 Seções 5.2 + 7.2 (sessão + equilíbrio, adaptados ao MMSE) → P-03 Seção 7.2 (dupla tarefa com adaptação P-18). |
 | **P-19** | Fraturas Vertebrais por Compressão | — | — | — |
@@ -593,7 +614,7 @@ As seguintes questões foram identificadas durante a fase de pesquisa e devem se
 | 2 | **Status EWGSOP3** — Foi publicado EWGSOP3 (atualização de 2018)? | Não confirmado | Usar EWGSOP2 (2018); verificar imediatamente se EWGSOP3 anunciado |
 | 3 | **AGS Beers 2025/2026** — Existe edição mais recente que 2023? | Não confirmado | Usar AGS Beers 2023; verificar antes de publicação definitiva |
 | 4 | **Limiares NRS — documento IASP específico** | Não encontrado | Usar limiares baseados em prática estabelecida em RCTs; não citar como "diretriz IASP" |
-| 5 | **ATS/ERS 2023 Pulmonary Rehabilitation Statement** — Status final | Não confirmado | Verificar antes de finalizar P-15 (Fase 6) |
+| 5 | **ATS/ERS 2023 Pulmonary Rehabilitation Statement** — Status final | Resolvido | ATS CPG 2023 (PMID 37581410) adotado como diretriz primária para P-15 — substitui ATS/ERS 2013 Position Statement. Verificar adendos/corrigendum 2024–2026 antes de publicação definitiva. |
 
 ---
 
