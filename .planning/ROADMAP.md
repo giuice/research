@@ -15,7 +15,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 1: Fundação e Template** - Shared Foundation Layer + P-01 Osteoartrite (template protocol establishing all standards) — COMPLETED 2026-03-12
 - [ ] **Phase 2: Modificadores Transversais** - P-08 Sarcopenia e P-04 Osteoporose (cross-protocol dosage and bone-loading modifiers)
 - [ ] **Phase 3: Infraestrutura de Segurança de Quedas** - P-07 Quedas e Síndrome Pós-Queda (balance hierarchy and session-level fall risk protocol)
-- [ ] **Phase 4: Musculoesquelético Alta Dependência** - P-05 Fratura de Fêmur, P-10 ATJ, P-11 ATQ (post-op and fracture protocols)
+- [x] **Phase 4: Musculoesquelético Alta Dependência** - P-05 Fratura de Fêmur, P-10 ATJ, P-11 ATQ (post-op and fracture protocols) (completed 2026-03-13)
 - [ ] **Phase 5: Cluster Neuromotor** - P-03 AVC, P-06 Parkinson, P-18 Demência (neurological protocols)
 - [ ] **Phase 6: Cluster Cardiorrespiratório** - P-15 DPOC e P-16 Insuficiência Cardíaca (with retroactive cardiorespiratory precautions update)
 - [ ] **Phase 7: Musculoesquelético Secundário e Dor Crônica** - P-02, P-09, P-12, P-19 Lombalgia/Coluna + P-13 Ombro e P-20 Gonalgia/Coxalgia
@@ -148,7 +148,7 @@ Phases execute in strict sequential order: 1 → 2 → 3 → 4 → 5 → 6 → 7
 | 1. Fundação e Template | 1/2 | In progress | 01-01 done 2026-03-12 |
 | 2. Modificadores Transversais | 1/2 | In Progress|  |
 | 3. Infraestrutura de Segurança de Quedas | 0/1 | Not started | - |
-| 4. Musculoesquelético Alta Dependência | 0/2 | Not started | - |
+| 4. Musculoesquelético Alta Dependência | 2/2 | Complete   | 2026-03-13 |
 | 5. Cluster Neuromotor | 0/2 | Not started | - |
 | 6. Cluster Cardiorrespiratório | 0/2 | Not started | - |
 | 7. Musculoesquelético Secundário e Dor Crônica | 0/3 | Not started | - |

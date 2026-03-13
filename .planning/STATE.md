@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 03-01-PLAN.md — P-07-QUEDAS.md created (990 lines, 15 sections, INFRAESTRUTURA DE SEGURANCA balance hierarchy + session protocol); SHARED-FOUNDATION P-07 row populated; Phase 3 Plan 1 complete
-last_updated: "2026-03-13T14:58:26.222Z"
+stopped_at: Completed 04-02-PLAN.md — P-10-ATJ.md (922 lines, 15 sections) and P-11-ATQ.md (978 lines, 15 sections) created; SHARED-FOUNDATION P-10/P-11 rows populated; Phase 4 Plan 2 complete
+last_updated: "2026-03-13T18:36:15.579Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
-  completed_phases: 3
-  total_plans: 5
-  completed_plans: 5
+  completed_phases: 4
+  total_plans: 7
+  completed_plans: 7
   percent: 12
 ---
 
@@ -53,6 +53,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 02-modificadores-transversais P01 | 8 | 2 tasks | 2 files |
 | Phase 02-modificadores-transversais P02 | 12 | 2 tasks | 2 files |
 | Phase 03-infraestrutura-de-seguranca-de-quedas P01 | 10 | 2 tasks | 2 files |
+| Phase 04-musculoesqueletico-alta-dependencia P02 | 14 | 2 tasks | 3 files |
 
 ## Accumulated Context
 
@@ -86,6 +87,9 @@ Recent decisions affecting current work:
 - [Phase 03-infraestrutura-de-seguranca-de-quedas]: [03-01]: INFRAESTRUTURA DE SEGURANCA label pattern adopted for balance hierarchy and session safety blocks in P-07
 - [Phase 03-infraestrutura-de-seguranca-de-quedas]: [03-01]: PBT eligible for frail patients WITH safeguards (harness + pre-test) — PMC10587291 feasibility: 61% frail, zero adverse events
 - [Phase 03-infraestrutura-de-seguranca-de-quedas]: [03-01]: Post-fall syndrome defined as full triad (fear + activity restriction + progressive functional loss) — not synonymous with fear of falling
+- [Phase 04-02]: [04-02]: Scope differentiation analysis before drafting — explicit NÃO COBRE blocks prevent content overlap between P-10 (ATJ) and P-11 (ATQ)
+- [Phase 04-02]: [04-02]: P-11 adopts declared policy on posterior approach precautions — 2024 meta-analysis (PMC11651519) presented; conduta follows surgeon orientation; no auto-relaxation at 6 weeks
+- [Phase 04-02]: [04-02]: WOMAC-BR as primary functional outcome for P-10 and P-11 — KOOS-BR excluded due to absence of confirmed Brazilian validation
 
 ### Pending Todos
 
@@ -101,6 +105,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-13T14:54:14.804Z
-Stopped at: Completed 03-01-PLAN.md — P-07-QUEDAS.md created (990 lines, 15 sections, INFRAESTRUTURA DE SEGURANCA balance hierarchy + session protocol); SHARED-FOUNDATION P-07 row populated; Phase 3 Plan 1 complete
+Last session: 2026-03-13T18:36:07.594Z
+Stopped at: Completed 04-02-PLAN.md — P-10-ATJ.md (922 lines, 15 sections) and P-11-ATQ.md (978 lines, 15 sections) created; SHARED-FOUNDATION P-10/P-11 rows populated; Phase 4 Plan 2 complete
 Resume file: None

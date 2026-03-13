@@ -51,8 +51,8 @@
 - [x] **PROT-03**: P-04 Osteoporose — cross-protocol bone-loading constraint
 - [x] **PROT-04**: P-07 Quedas e Síndrome Pós-Queda — balance hierarchy + session fall risk protocol
 - [ ] **PROT-05**: P-05 Fratura de Fêmur Proximal / Quadril
-- [ ] **PROT-06**: P-10 Pós-op Artroplastia Total de Joelho (ATJ)
-- [ ] **PROT-07**: P-11 Pós-op Artroplastia Total de Quadril (ATQ)
+- [x] **PROT-06**: P-10 Pós-op Artroplastia Total de Joelho (ATJ)
+- [x] **PROT-07**: P-11 Pós-op Artroplastia Total de Quadril (ATQ)
 - [ ] **PROT-08**: P-03 AVC/AVE (fase crônica, neuroplasticidade)
 - [ ] **PROT-09**: P-06 Doença de Parkinson
 - [ ] **PROT-10**: P-18 Demência / Alzheimer (leve a moderado)
