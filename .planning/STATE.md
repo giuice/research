@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 01-02-PLAN.md — P-01-OSTEOARTRITE.md created (15 sections, template protocol); Phase 1 complete; ready for Phase 2
-last_updated: "2026-03-12T18:35:15.948Z"
+stopped_at: Completed 02-01-PLAN.md — P-08-SARCOPENIA.md created (15 sections, EWGSOP2 FACS, MODIFICADOR TRANSVERSAL resistance dosing table); SHARED-FOUNDATION P-08 row populated; ready for Plan 02-02 (P-04-OSTEOPOROSE)
+last_updated: "2026-03-13T13:44:24.561Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
   completed_phases: 1
-  total_plans: 2
-  completed_plans: 2
+  total_plans: 4
+  completed_plans: 3
   percent: 12
 ---
 
@@ -50,6 +50,7 @@ Progress: [██░░░░░░░░] 12%
 - Trend: Phase 1 complete
 
 *Updated after each plan completion*
+| Phase 02-modificadores-transversais P01 | 8 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -72,6 +73,10 @@ Recent decisions affecting current work:
 - [01-02]: Opioids added as 7th drug class in polypharmacy table — tramadol/codeína frequent in geriatric OA with direct exercise implications
 - [01-02]: Section 15 (8 clinical validity questions) established as replicable template for all 19 subsequent protocols
 - [01-02]: Crioterapia classified as Nivel C (CEBM 4-5) — honest evidence annotation for common practice without high-quality systematic review
+- [Phase 02-01]: EWGSOP2 (2018) confirmed as operative standard — GLIS 2024 is conceptual only; no numerical cutoffs published as of 2026-03-13
+- [Phase 02-01]: Fried Frailty Phenotype used as dosage stratifier in P-08 (not EWGSOP2 severity) — consistency with SHARED-FOUNDATION and all 20 protocols
+- [Phase 02-01]: Sarcopenia Grave + Fragil interaction: 20% additional load reduction on Fragil tier baseline for safety margin
+- [Phase 02-01]: P-08 Protein-exercise coordination classified as Nivel A (CEBM 1) — PROT-AGE (2013) + PMC12288929 (2025) Level 1 evidence
 
 ### Pending Todos
 
@@ -87,6 +92,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-12
-Stopped at: Completed 01-02-PLAN.md — P-01-OSTEOARTRITE.md created (15 sections, template protocol); Phase 1 complete; ready for Phase 2
+Last session: 2026-03-13T13:44:24.557Z
+Stopped at: Completed 02-01-PLAN.md — P-08-SARCOPENIA.md created (15 sections, EWGSOP2 FACS, MODIFICADOR TRANSVERSAL resistance dosing table); SHARED-FOUNDATION P-08 row populated; ready for Plan 02-02 (P-04-OSTEOPOROSE)
 Resume file: None
