@@ -74,7 +74,7 @@ Plans:
   1. P-05 specifies frailty assessment (CFS at admission) as mandatory, includes VTE prophylaxis protocol awareness, and addresses post-hip-fracture fall risk with direct references to the P-07 session fall risk protocol
   2. P-10 and P-11 are explicitly differentiated (scope statements prevent overlap), each specifying surgical approach-specific precaution sets (P-11: posterior vs. anterior hip precautions; P-10: compartment syndrome and stiffness prevention) and post-operative weight-bearing progression criteria
   3. All three protocols populate their comorbidity interaction sections from Phase 2–3 reference documents rather than re-deriving shared knowledge
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
 - [ ] 04-01: P-05 Fratura de Fêmur Proximal — research and complete protocol with frailty-mandatory CFS, VTE awareness, and P-07 fall risk integration
@@ -88,7 +88,7 @@ Plans:
   1. P-03 AVC includes neuroplasticity-grounded phase progression, aphasia/apraxia instruction adaptations, and the dual-task training template usable by P-06 and P-18
   2. P-06 Parkinson specifies levodopa timing (session scheduling 45–60 min post-dose), "on/off" state exercise response differentiation, and caregiver training as a formal protocol component
   3. P-18 Demência uses procedural/implicit learning instruction design for all exercises, mandates MMSE or MoCA at baseline with cognitive-stratified instruction complexity, limits HEP to 2–3 exercises with pictographic sheets for MMSE <24, and integrates PAINAD/Abbey Pain Scale alongside self-report
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
 - [ ] 05-01: P-03 AVC — research and complete protocol with neuroplasticity evidence, aphasia/apraxia adaptations, dual-task training template
@@ -102,7 +102,7 @@ Plans:
   1. P-15 DPOC includes mandatory SpO2 monitoring with exercise start/stop decision cut-offs and the 6MWT as primary outcome tool, referencing ATS/ERS guidelines
   2. P-16 Insuficiência Cardíaca uses RPE-only intensity monitoring (acknowledging beta-blocker HR confound), includes daily weight monitoring with cardiology coordination pathway, and thermoregulatory impairment guidance
   3. All 10 previously completed protocols (Phases 1–5) have received the universal Cardiorespiratory Precautions section, verified and documented as a retroactive update pass
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
 - [ ] 06-01: P-15 DPOC + P-16 Insuficiência Cardíaca — research and complete both protocols sequentially; draft universal Cardiorespiratory Precautions section template from P-15 work
@@ -116,7 +116,7 @@ Plans:
   1. P-02 Lombalgia Crônica e Estenose de Canal and P-12 Dor Lombar Crônica Inespecífica each have explicit scope statements differentiating their patient populations, diagnostic criteria, and management approaches — with no substantive content duplication between them
   2. All six protocols include Pain Neuroscience Education (PNE) components and central sensitization screening (CSI) where clinically indicated, with time-contingent progression and psychosocial flags
   3. The cross-reference index reflects all 16 protocols now complete and documents known comorbidity interaction pathways (e.g., Lombalgia ↔ Osteoporose, Ombro ↔ ATQ, Gonalgia ↔ Artrose)
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
 - [ ] 07-01: P-02/P-12 differentiation analysis + P-02 Lombalgia Crônica + P-09 Espondilose — differentiation first, then protocols in dependency order
@@ -131,7 +131,7 @@ Plans:
   1. P-17 Neuropatia Periférica includes mandatory pre-session glucose check protocol, sensory-loss-adapted balance exercises referencing the P-07 fall risk hierarchy, and a sensory re-education progression hierarchy appropriate for the neuropathic population
   2. P-14 Disfunção do Assoalho Pélvico distinguishes hyper vs. hypo tone through functional assessment as the mandatory first step before any exercise type selection, with ICIQ-SF cited in its Brazilian Portuguese validated version
   3. The Cross-Reference Index covers all 20 protocols — mapping comorbidity interaction pathways, shared assessment tools, cross-protocol dosage modifiers (sarcopenia, osteoporosis, falls), and high-overlap protocol differentiation — forming a usable navigation system for multi-morbid patient management
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
 - [ ] 08-01: P-17 Neuropatia Periférica Diabética — research and complete protocol with glucose monitoring, sensory-loss balance adaptation, and sensory re-education hierarchy
