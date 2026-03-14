@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 06-02-PLAN.md — Universal Cardiorespiratory Precautions template applied retroactively to 10 Phase 1-5 protocols; SHARED-FOUNDATION Section 7.4.5 documents retroactive pass; Phase 6 complete
-last_updated: "2026-03-13T22:27:28.439Z"
+stopped_at: Completed 07-01-PLAN.md — Scope differentiation analysis for lumbar trio (P-02/P-09/P-12) + P-02 Lombalgia Cronica e Estenose de Canal + P-09 Artrose de Coluna / Espondilose; Phase 7 Plan 01 complete
+last_updated: "2026-03-14T10:22:43.233Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
   completed_phases: 6
-  total_plans: 11
-  completed_plans: 11
+  total_plans: 14
+  completed_plans: 12
   percent: 12
 ---
 
@@ -58,6 +58,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 05-cluster-neuromotor P02 | 15 | 2 tasks | 3 files |
 | Phase 06-cluster-cardiorrespiratorio P01 | 15 | 2 tasks | 3 files |
 | Phase 06-cluster-cardiorrespiratorio P02 | 20 | 2 tasks | 11 files |
+| Phase 07-musculoesqueletico-secundario-e-dor-cronica P01 | 12 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -104,6 +105,9 @@ Recent decisions affecting current work:
 - [Phase 06-01]: RPE Borg 6-20 exclusivo em IC com betabloqueador — FC contraindicada como parâmetro de intensidade (cronotropia negativa); MLHFQ e CAT-BR com nota de cautela de validação cultural
 - [Phase Phase 06-02]: Universal template 11.1 + 11.2 applied VERBATIM to all 10 Phase 1-5 protocols — consistent thresholds PA >180/110, FC >120, SpO2 <90%, Borg >=5 across 12-protocol corpus
 - [Phase Phase 06-02]: Phases 7-8 protocols must include universal cardiorespiratory template at creation time — SHARED-FOUNDATION Seção 7.4.5 is the instruction and audit record
+- [Phase 07-musculoesqueletico-secundario-e-dor-cronica]: P-02/P-09 discriminating criterion: claudicação neurogênica (piora em extensão/marcha + alívio em flexão) routes to P-02; absence routes to P-09 with mechanical degenerative substrate
+- [Phase 07-musculoesqueletico-secundario-e-dor-cronica]: Therapeutic inversion: P-02 = flexion bias (extension contraindicated); P-09 = extension recommended under P-04 bone-loading gate — documented to prevent clinical error
+- [Phase 07-musculoesqueletico-secundario-e-dor-cronica]: CSI-BR >= 40 in P-02/P-09: time-contingent progression replaces NRS-guided progression; functional capacity (TUG, SPPB, walking distance) governs advancement
 
 ### Pending Todos
 
@@ -119,6 +123,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-13T22:20:18.945Z
-Stopped at: Completed 06-02-PLAN.md — Universal Cardiorespiratory Precautions template applied retroactively to 10 Phase 1-5 protocols; SHARED-FOUNDATION Section 7.4.5 documents retroactive pass; Phase 6 complete
+Last session: 2026-03-14T10:22:43.228Z
+Stopped at: Completed 07-01-PLAN.md — Scope differentiation analysis for lumbar trio (P-02/P-09/P-12) + P-02 Lombalgia Cronica e Estenose de Canal + P-09 Artrose de Coluna / Espondilose; Phase 7 Plan 01 complete
 Resume file: None

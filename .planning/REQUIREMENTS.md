@@ -58,8 +58,8 @@
 - [x] **PROT-10**: P-18 Demência / Alzheimer (leve a moderado)
 - [x] **PROT-11**: P-15 DPOC (reabilitação respiratória)
 - [x] **PROT-12**: P-16 Insuficiência Cardíaca / Cardiopatias
-- [ ] **PROT-13**: P-02 Lombalgia Crônica e Estenose de Canal
-- [ ] **PROT-14**: P-09 Artrose de Coluna / Espondilose
+- [x] **PROT-13**: P-02 Lombalgia Crônica e Estenose de Canal
+- [x] **PROT-14**: P-09 Artrose de Coluna / Espondilose
 - [ ] **PROT-15**: P-12 Dor Lombar Crônica Inespecífica
 - [ ] **PROT-16**: P-19 Fraturas Vertebrais por Compressão
 - [ ] **PROT-17**: P-13 Síndrome do Ombro Doloroso
