@@ -62,8 +62,8 @@
 - [x] **PROT-14**: P-09 Artrose de Coluna / Espondilose
 - [x] **PROT-15**: P-12 Dor Lombar Crônica Inespecífica
 - [x] **PROT-16**: P-19 Fraturas Vertebrais por Compressão
-- [ ] **PROT-17**: P-13 Síndrome do Ombro Doloroso
-- [ ] **PROT-18**: P-20 Gonalgia / Coxalgia Degenerativa
+- [x] **PROT-17**: P-13 Síndrome do Ombro Doloroso
+- [x] **PROT-18**: P-20 Gonalgia / Coxalgia Degenerativa
 - [ ] **PROT-19**: P-17 Neuropatia Periférica (diabética)
 - [ ] **PROT-20**: P-14 Disfunção do Assoalho Pélvico
 
