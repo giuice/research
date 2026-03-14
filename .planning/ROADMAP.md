@@ -151,5 +151,5 @@ Phases execute in strict sequential order: 1 → 2 → 3 → 4 → 5 → 6 → 7
 | 4. Musculoesquelético Alta Dependência | 2/2 | Complete   | 2026-03-13 |
 | 5. Cluster Neuromotor | 2/2 | Complete   | 2026-03-13 |
 | 6. Cluster Cardiorrespiratório | 2/2 | Complete   | 2026-03-13 |
-| 7. Musculoesquelético Secundário e Dor Crônica | 0/3 | Not started | - |
+| 7. Musculoesquelético Secundário e Dor Crônica | 2/3 | In Progress|  |
 | 8. Protocolos Especializados | 0/3 | Not started | - |

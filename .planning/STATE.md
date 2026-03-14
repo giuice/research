@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 07-01-PLAN.md — Scope differentiation analysis for lumbar trio (P-02/P-09/P-12) + P-02 Lombalgia Cronica e Estenose de Canal + P-09 Artrose de Coluna / Espondilose; Phase 7 Plan 01 complete
-last_updated: "2026-03-14T10:22:43.233Z"
+stopped_at: Completed 07-02-PLAN.md — P-12 Dor Lombar Cronica Inespecifica + P-19 Fraturas Vertebrais por Compressao; Phase 7 Plan 02 complete
+last_updated: "2026-03-14T10:47:16.577Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
   completed_phases: 6
   total_plans: 14
-  completed_plans: 12
+  completed_plans: 13
   percent: 12
 ---
 
@@ -59,6 +59,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 06-cluster-cardiorrespiratorio P01 | 15 | 2 tasks | 3 files |
 | Phase 06-cluster-cardiorrespiratorio P02 | 20 | 2 tasks | 11 files |
 | Phase 07-musculoesqueletico-secundario-e-dor-cronica P01 | 12 | 2 tasks | 2 files |
+| Phase 07-musculoesqueletico-secundario-e-dor-cronica P02 | 20 | 2 tasks | 2 files |
 
 ## Accumulated Context
 
@@ -108,6 +109,8 @@ Recent decisions affecting current work:
 - [Phase 07-musculoesqueletico-secundario-e-dor-cronica]: P-02/P-09 discriminating criterion: claudicação neurogênica (piora em extensão/marcha + alívio em flexão) routes to P-02; absence routes to P-09 with mechanical degenerative substrate
 - [Phase 07-musculoesqueletico-secundario-e-dor-cronica]: Therapeutic inversion: P-02 = flexion bias (extension contraindicated); P-09 = extension recommended under P-04 bone-loading gate — documented to prevent clinical error
 - [Phase 07-musculoesqueletico-secundario-e-dor-cronica]: CSI-BR >= 40 in P-02/P-09: time-contingent progression replaces NRS-guided progression; functional capacity (TUG, SPPB, walking distance) governs advancement
+- [Phase 07-musculoesqueletico-secundario-e-dor-cronica]: PNE as CENTRAL component in P-12 (4 formal modules 30-40 min each); PNE as ADJUNCT in P-02/P-09/P-19 (2-3 sessions); differentiation established across lumbar trio
+- [Phase 07-musculoesqueletico-secundario-e-dor-cronica]: P-19 automatic Muito Alto Risco classification: confirmed vertebral fracture = automatic Muito Alto Risco in P-04 Seção 5.2 for Phases 1-2; Teto P-04 documented per exercise in dosage tables
 
 ### Pending Todos
 
@@ -123,6 +126,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-14T10:22:43.228Z
-Stopped at: Completed 07-01-PLAN.md — Scope differentiation analysis for lumbar trio (P-02/P-09/P-12) + P-02 Lombalgia Cronica e Estenose de Canal + P-09 Artrose de Coluna / Espondilose; Phase 7 Plan 01 complete
+Last session: 2026-03-14T10:47:16.572Z
+Stopped at: Completed 07-02-PLAN.md — P-12 Dor Lombar Cronica Inespecifica + P-19 Fraturas Vertebrais por Compressao; Phase 7 Plan 02 complete
 Resume file: None

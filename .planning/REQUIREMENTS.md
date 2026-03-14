@@ -60,8 +60,8 @@
 - [x] **PROT-12**: P-16 Insuficiência Cardíaca / Cardiopatias
 - [x] **PROT-13**: P-02 Lombalgia Crônica e Estenose de Canal
 - [x] **PROT-14**: P-09 Artrose de Coluna / Espondilose
-- [ ] **PROT-15**: P-12 Dor Lombar Crônica Inespecífica
-- [ ] **PROT-16**: P-19 Fraturas Vertebrais por Compressão
+- [x] **PROT-15**: P-12 Dor Lombar Crônica Inespecífica
+- [x] **PROT-16**: P-19 Fraturas Vertebrais por Compressão
 - [ ] **PROT-17**: P-13 Síndrome do Ombro Doloroso
 - [ ] **PROT-18**: P-20 Gonalgia / Coxalgia Degenerativa
 - [ ] **PROT-19**: P-17 Neuropatia Periférica (diabética)
