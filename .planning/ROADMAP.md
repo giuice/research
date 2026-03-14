@@ -131,7 +131,7 @@ Plans:
   1. P-17 Neuropatia Periférica includes mandatory pre-session glucose check protocol, sensory-loss-adapted balance exercises referencing the P-07 fall risk hierarchy, and a sensory re-education progression hierarchy appropriate for the neuropathic population
   2. P-14 Disfunção do Assoalho Pélvico distinguishes hyper vs. hypo tone through functional assessment as the mandatory first step before any exercise type selection, with ICIQ-SF cited in its Brazilian Portuguese validated version
   3. The Cross-Reference Index covers all 20 protocols — mapping comorbidity interaction pathways, shared assessment tools, cross-protocol dosage modifiers (sarcopenia, osteoporosis, falls), and high-overlap protocol differentiation — forming a usable navigation system for multi-morbid patient management
-**Plans**: 2 plans
+**Plans**: 3 plans
 
 Plans:
 - [ ] 08-01: P-17 Neuropatia Periférica Diabética — research and complete protocol with glucose monitoring, sensory-loss balance adaptation, and sensory re-education hierarchy
