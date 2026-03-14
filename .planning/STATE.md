@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 08-01-PLAN.md — P-17 Neuropatia Periferica Diabetica
-last_updated: "2026-03-14T11:46:02.189Z"
+stopped_at: Completed 08-02-PLAN.md — P-14 Disfuncao do Assoalho Pelvico
+last_updated: "2026-03-14T11:56:04.947Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
   completed_phases: 7
   total_plans: 17
-  completed_plans: 15
+  completed_plans: 16
   percent: 12
 ---
 
@@ -62,6 +62,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 07-musculoesqueletico-secundario-e-dor-cronica P02 | 20 | 2 tasks | 2 files |
 | Phase 07-musculoesqueletico-secundario-e-dor-cronica P03 | 16 | 2 tasks | 3 files |
 | Phase 08-protocolos-especializados P01 | 40 | 2 tasks | 1 files |
+| Phase 08-protocolos-especializados P02 | 6 | 2 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -121,6 +122,10 @@ Recent decisions affecting current work:
 - [Phase 08-01]: P-07 OBRIGATORIO for ALL NPD patients due to 15x elevated fall risk — strongest cross-protocol dependency in the corpus
 - [Phase 08-01]: SE hierarchy (SE-1 to SE-4) classified MEDIUM confidence — adapted from P-07 Secao 7.2 with NPD sensory deficit modifications; no single guideline consolidates this hierarchy
 - [Phase 08-01]: RPE Borg 6-20 as primary intensity monitor in NPD with cardiac autonomic neuropathy — same rationale as P-16 with beta-blockers; FC unreliable due to blunted autonomic response
+- [Phase 08-02]: Passo 0 Estrutural (mandatory tônus classification: hipertônico vs. hipotônico vs. misto) positioned as structural Step 0 before any exercise — prevents iatrogenic error of prescribing PFMT to hypertonic pelvic floor
+- [Phase 08-02]: ICIQ-SF-BR MCID ≥ 3 points with MEDIUM confidence note (estimativa baseada na literatura; MCID geriátrico BR não publicado)
+- [Phase 08-02]: Fase 3 de P-14 declarada PERMANENTE — DAP em idosas é crônica; alta clínica = transição para HEP autônomo com revisão trimestral
+- [Phase 08-02]: ABRAFISM 2025 (PMC11847513) adotado como referência primária de terminologia em Português Brasileiro para hipertônico/hipotônico do assoalho pélvico
 
 ### Pending Todos
 
@@ -136,6 +141,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-14T11:46:02.184Z
-Stopped at: Completed 08-01-PLAN.md — P-17 Neuropatia Periferica Diabetica
+Last session: 2026-03-14T11:56:04.943Z
+Stopped at: Completed 08-02-PLAN.md — P-14 Disfuncao do Assoalho Pelvico
 Resume file: None
