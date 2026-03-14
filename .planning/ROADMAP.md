@@ -19,7 +19,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 - [x] **Phase 5: Cluster Neuromotor** - P-03 AVC, P-06 Parkinson, P-18 Demência (neurological protocols) (completed 2026-03-13)
 - [x] **Phase 6: Cluster Cardiorrespiratório** - P-15 DPOC e P-16 Insuficiência Cardíaca (with retroactive cardiorespiratory precautions update) (completed 2026-03-13)
 - [x] **Phase 7: Musculoesquelético Secundário e Dor Crônica** - P-02, P-09, P-12, P-19 Lombalgia/Coluna + P-13 Ombro e P-20 Gonalgia/Coxalgia (completed 2026-03-14)
-- [ ] **Phase 8: Protocolos Especializados** - P-17 Neuropatia Periférica e P-14 Disfunção do Assoalho Pélvico + Cross-Reference Index finalizado
+- [x] **Phase 8: Protocolos Especializados** - P-17 Neuropatia Periférica e P-14 Disfunção do Assoalho Pélvico + Cross-Reference Index finalizado (completed 2026-03-14)
 
 ## Phase Details
 
@@ -152,4 +152,4 @@ Phases execute in strict sequential order: 1 → 2 → 3 → 4 → 5 → 6 → 7
 | 5. Cluster Neuromotor | 2/2 | Complete   | 2026-03-13 |
 | 6. Cluster Cardiorrespiratório | 2/2 | Complete   | 2026-03-13 |
 | 7. Musculoesquelético Secundário e Dor Crônica | 3/3 | Complete   | 2026-03-14 |
-| 8. Protocolos Especializados | 2/3 | In Progress|  |
+| 8. Protocolos Especializados | 3/3 | Complete   | 2026-03-14 |

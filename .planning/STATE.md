@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 08-02-PLAN.md — P-14 Disfuncao do Assoalho Pelvico
-last_updated: "2026-03-14T11:56:04.947Z"
+stopped_at: Completed 08-03-PLAN.md — Cross-Reference Index 20/20 COMPLETO — Phase 8 complete
+last_updated: "2026-03-14T12:01:46.833Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
-  completed_phases: 7
+  completed_phases: 8
   total_plans: 17
-  completed_plans: 16
+  completed_plans: 17
   percent: 12
 ---
 
@@ -63,6 +63,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 07-musculoesqueletico-secundario-e-dor-cronica P03 | 16 | 2 tasks | 3 files |
 | Phase 08-protocolos-especializados P01 | 40 | 2 tasks | 1 files |
 | Phase 08-protocolos-especializados P02 | 6 | 2 tasks | 1 files |
+| Phase 08-protocolos-especializados P03 | 8 | 1 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -126,6 +127,9 @@ Recent decisions affecting current work:
 - [Phase 08-02]: ICIQ-SF-BR MCID ≥ 3 points with MEDIUM confidence note (estimativa baseada na literatura; MCID geriátrico BR não publicado)
 - [Phase 08-02]: Fase 3 de P-14 declarada PERMANENTE — DAP em idosas é crônica; alta clínica = transição para HEP autônomo com revisão trimestral
 - [Phase 08-02]: ABRAFISM 2025 (PMC11847513) adotado como referência primária de terminologia em Português Brasileiro para hipertônico/hipotônico do assoalho pélvico
+- [Phase 08-03]: P-07 OBRIGATORIO for ALL P-17 patients confirmed in cross-reference index — 15x fall risk is the strongest cross-protocol dependency in the corpus; SE-1 to SE-4 hierarchy linked to P-07 Secao 7.2
+- [Phase 08-03]: P-14 iatrogenic warning (Kegel para hipertonico = erro clinico grave) positioned as primary safety warning in cross-reference index — highest clinical-impact distinction in the corpus
+- [Phase 08-03]: RPE Borg 6-20 exclusive in NPD autonomic neuropathy cross-referenced to P-16 rationale — blunted adrenergic response mechanism shared between autonomic neuropathy and beta-blockers
 
 ### Pending Todos
 
@@ -141,6 +145,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-14T11:56:04.943Z
-Stopped at: Completed 08-02-PLAN.md — P-14 Disfuncao do Assoalho Pelvico
+Last session: 2026-03-14T12:01:46.827Z
+Stopped at: Completed 08-03-PLAN.md — Cross-Reference Index 20/20 COMPLETO — Phase 8 complete
 Resume file: None
