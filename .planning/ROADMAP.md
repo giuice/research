@@ -116,7 +116,7 @@ Plans:
   1. P-02 Lombalgia Crônica e Estenose de Canal and P-12 Dor Lombar Crônica Inespecífica each have explicit scope statements differentiating their patient populations, diagnostic criteria, and management approaches — with no substantive content duplication between them
   2. All six protocols include Pain Neuroscience Education (PNE) components and central sensitization screening (CSI) where clinically indicated, with time-contingent progression and psychosocial flags
   3. The cross-reference index reflects all 16 protocols now complete and documents known comorbidity interaction pathways (e.g., Lombalgia ↔ Osteoporose, Ombro ↔ ATQ, Gonalgia ↔ Artrose)
-**Plans**: 2 plans
+**Plans**: 3 plans
 
 Plans:
 - [ ] 07-01: P-02/P-12 differentiation analysis + P-02 Lombalgia Crônica + P-09 Espondilose — differentiation first, then protocols in dependency order
