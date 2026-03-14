@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: completed
-stopped_at: Completed 07-03-PLAN.md — P-13 Sindrome do Ombro Doloroso + P-20 Gonalgia/Coxalgia Degenerativa + SHARED-FOUNDATION cross-reference index Phase 7 complete
-last_updated: "2026-03-14T11:12:19.942Z"
+stopped_at: Completed 08-01-PLAN.md — P-17 Neuropatia Periferica Diabetica
+last_updated: "2026-03-14T11:46:02.189Z"
 last_activity: "2026-03-12 — Plan 01-02 completed: P-01-OSTEOARTRITE.md created (15 sections, template protocol)"
 progress:
   total_phases: 8
   completed_phases: 7
-  total_plans: 14
-  completed_plans: 14
+  total_plans: 17
+  completed_plans: 15
   percent: 12
 ---
 
@@ -61,6 +61,7 @@ Progress: [██░░░░░░░░] 12%
 | Phase 07-musculoesqueletico-secundario-e-dor-cronica P01 | 12 | 2 tasks | 2 files |
 | Phase 07-musculoesqueletico-secundario-e-dor-cronica P02 | 20 | 2 tasks | 2 files |
 | Phase 07-musculoesqueletico-secundario-e-dor-cronica P03 | 16 | 2 tasks | 3 files |
+| Phase 08-protocolos-especializados P01 | 40 | 2 tasks | 1 files |
 
 ## Accumulated Context
 
@@ -116,6 +117,10 @@ Recent decisions affecting current work:
 - [Phase 07]: P-13 CSI as therapeutic window facilitator (NICE NG228) — not standalone treatment; exercise must follow within 2-3 days; max 3/year
 - [Phase 07]: P-20 Phase 3 is PERMANENT: quarterly review cycle; formal expectation management; community exercise integration; no conventional discharge
 - [Phase 07]: P-20 WOMAC-BR primary confirmed (Oliveira 2022, PMC9673866); KOOS-BR/HOOS-BR secondary with explicit validation caution note
+- [Phase 08-01]: Pre-session glucose thresholds (< 90 / 90-250 / 250-300 / > 300 mg/dL) classified as MEDIUM confidence — derived from Colberg 2016 + clinical consensus, not explicit ADA operational table for PT context
+- [Phase 08-01]: P-07 OBRIGATORIO for ALL NPD patients due to 15x elevated fall risk — strongest cross-protocol dependency in the corpus
+- [Phase 08-01]: SE hierarchy (SE-1 to SE-4) classified MEDIUM confidence — adapted from P-07 Secao 7.2 with NPD sensory deficit modifications; no single guideline consolidates this hierarchy
+- [Phase 08-01]: RPE Borg 6-20 as primary intensity monitor in NPD with cardiac autonomic neuropathy — same rationale as P-16 with beta-blockers; FC unreliable due to blunted autonomic response
 
 ### Pending Todos
 
@@ -131,6 +136,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-14T11:07:16.097Z
-Stopped at: Completed 07-03-PLAN.md — P-13 Sindrome do Ombro Doloroso + P-20 Gonalgia/Coxalgia Degenerativa + SHARED-FOUNDATION cross-reference index Phase 7 complete
+Last session: 2026-03-14T11:46:02.184Z
+Stopped at: Completed 08-01-PLAN.md — P-17 Neuropatia Periferica Diabetica
 Resume file: None
